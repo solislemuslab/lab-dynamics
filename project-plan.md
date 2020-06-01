@@ -30,7 +30,7 @@ Based on NIH description of Specific Aims, and NSF description of Project Summar
 4. Discuss the project plan with the PI
 
 ## Things to keep in mind regarding the deliverables
-- The deliverables must be up to standards with the lab guidelines of reproducibility, clear communication, etc (see lab guidelines). You do not need to think about these guidelines as you prepare the project plan, but they are important to know as you write your timeline. That is, do not expect that you will send your manuscript to co-authors and be submitted for publication a week later
+- The deliverables must be up to standards with the [lab guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md) of reproducibility, clear communication, etc. You do not need to think about these guidelines as you prepare the project plan, but they are important to know as you write your timeline. That is, do not expect that you will send your manuscript to co-authors and it will be submitted for publication within one week
 
 - The most common deliverable will be manuscripts. Keep in mind that you will be the first author of this manuscript, so make sure to consider this in the timeline. That is, the first author is responsible for:
     - Writing the manuscript
@@ -40,4 +40,4 @@ Based on NIH description of Specific Aims, and NSF description of Project Summar
     - Understanding the general principles of all work included in the manuscript.
 The manuscript deliverable must be a good version of the manuscript that is complete, has been proof-read by you, and is properly cited. You should have given it a lot of thought and work to produce the version that you will share with your co-authors. You should use the resources of the Writing Center to produce this version
 
-- Another common deliverable will be open-source software. Keep in mind that there is a huge gap between code that runs, and code that is suitable for publication and you should consider this in your timeline. Follow all reproducibility practices and best computing practices. Keep in mind that suboptimal code will not be deemed suitable for publication
+- Another common deliverable will be open-source software. Keep in mind that there is a huge gap between code that runs, and code that is suitable for publication and you should consider this in your timeline. Follow reproducibility practices and best computing practices (examples in [lab guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md)). Keep in mind that suboptimal code will not be deemed suitable for publication

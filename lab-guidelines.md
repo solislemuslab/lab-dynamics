@@ -68,6 +68,7 @@ See [Wilson, et al 2014](https://journals.plos.org/plosbiology/article?id=10.137
     - understand that reproducibility is a process. No one is reproducible from one day to the next. It is a constant process, and it will feel unnatural a times
     - assume that everything that you are doing right now will need to be redone at some point in the future: be prepared
     - ask for help if you need it. If you are feeling overwhelmed or stressed or don't know where to start, please reach out and I am happy to talk with you to find solutions
+    - note that if you are already reproducible and keep good notes by other means (not highlighted here), do continue that way! In fact, I am always eager to learn different ideas! This document is not meant to force anyone to do one particular style of best computing and reproducibility practices. Just keep in mind that whatever your style, we should discuss it and make sure that we are all on the same boat when it comes to expectations and outcomes
 
 ## Clear scientific communication: manuscripts and presentations
 
