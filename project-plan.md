@@ -1,7 +1,7 @@
 # Writing a project plan
 Based on the "Cooking recipe" for writing a project plan by Doerte Doepfer.
 
-This document is mostly for graduate students and postdocs. But if you are an undergraduate student that want to do a project plan, please talk to me!
+This document is mostly for graduate students and postdocs. But if you are an undergraduate student that wants to do a project plan, please talk to me!
 
 ## Components of a good project plan
 Based on NIH description of Specific Aims, and NSF description of Project Summary:
