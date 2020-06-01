@@ -14,7 +14,7 @@ Based on (shamelessly copied from) "Guidelines for Research in the Baum lab" by 
     
 - You will develop strong research skills
     - **Take advantage of your opportunity to work at a world-class university by developing and refining stellar research skills.** I expect that you will already know or learn how to plan, design, and conduct high quality empirical, conceptual and/or theoretical research. More importantly, I expect that you are open to improve your skills (research/computational/writing) constantly
-    - **Present your work at meetings/seminars and prepare scientific articles.** The ‘currency’ in science is published papers, they drive a lot of what we do and, because our lab is supported by taxpayer dollars, we have an obligation to complete and disseminate our findings. I will push you to publish your research. I expect that your manuscripts will adhere to the "Guidelines on manuscripts and code" (see below). Please expect that at the beginning, I may heavily rewrite and edit your manuscripts
+    - **Present your work at meetings/seminars and prepare scientific articles.** The ‘currency’ in science is published papers, they drive a lot of what we do and, because our lab is supported by taxpayer dollars, we have an obligation to complete and disseminate our findings. I will push you to publish your research. I expect that your manuscripts/presentations will adhere to the "Guidelines on manuscripts and code" (see below). Please expect that at the beginning, I may heavily rewrite and edit your manuscripts
     - **You will follow the best computing practices in all the code/scripts that you do.** There is a big gap between code that runs, and code that is suitable for publication/open-source software (see "Guidelines on manuscripts and code" below). 
     - **You will be reproducible.** Maintain detailed, organized, and accurate records of your research. Be aware that your notes, records and all tangible research data are my property as the lab director. When you leave the lab, I encourage you to take copies of your work with you. But one full set of all files/notes must stay in the lab, with appropriate and accessible documentation.
     - **Keep up with the literature** so that you can have a hand in guiding your own research. Block at least one hour per week to do lit searches and read articles.
@@ -46,3 +46,53 @@ Based on (shamelessly copied from) "Guidelines for Research in the Baum lab" by 
 - I will encourage you to attend scientific/professional meetings and will make an effort to fund such activities. I will not be able to cover all of requests but I will try.
 - I will provide you a work environment that is intellectually stimulating, emotionally supportive, safe, and free of harassment. I will intervene strenuously to ensure that everybody feels safe and welcome.
 - I will strive to be supportive, equitable, accessible, encouraging, and respectful. I will try my best to understand your unique situation. I am mindful that we all come from a different backgrounds and have different circumstance. It will help if you keep me informed about your experiences and remember that academic research is a job with very high expectations. I view my role as fostering your professional confidence and encouraging your critical thinking, skepticism, and creativity. **If my attempts to do this are not effective for you, I am open to talking with you about other ways to achieve these goals.**
+
+
+# Guidelines for manuscripts and code
+
+## Best computing practices for code
+See [Wilson, et al 2014](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+
+1. Write programs for people, not computers
+2. Let the computer do the work (functions, scripts)
+3. Make incremental changes (use version control)
+4. Don’t repeat yourself (or others): no copy-paste!
+5. Plan for mistakes (add assersions to programs, code defensively)
+6. Optimize software only after it works correctly
+7. Document design and purpose, not mechanics
+8. Collaborate (github pull requests/issues)
+
+- I expect that you will 
+    - read and adhere to the guidelines in [here](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
+    - study resources on computing practices, reproducibility, version control, organization of projects, naming files. There are some links in [here](https://github.com/crsl4/mindful-programming/blob/master/lecture.md) that I expect that you will study, understand and follow when programming
+    - understand that reproducibility is a process. No one is reproducible from one day to the next. It is a constant process, and it will feel unnatural a times
+    - assume that everything that you are doing right now will need to be redone at some point in the future: be prepared
+    - ask for help if you need it. If you are feeling overwhelmed or stressed or don't know where to start, please reach out and I am happy to talk with you to find solutions
+
+## Clear scientific communication: manuscripts and presentations
+
+It is not enough to do "good science", we need to be good communicators of our science.
+
+- I expect that you will
+    - actively search ways to improve your oral and communication skills
+    - use the many university resources (like the Writing Center) to your advantage
+    - accept that good skills in academic writing are a key component in a scientist's development
+    - practice your presentations with multiple people, and be responsive to constructive criticism
+    - make writing clear manuscript and delivering clear presentations a priority for your growth as a scientist
+    - use one-on-one instruction at the Writing Center (or alternative resources) as you prepare your manuscripts
+    - accept that at the beginning I may heavily edit your manuscripts. Don't feel discouraged! It is part of the learning process that we accept feedback from peers. My manuscripts are also edited by colleagues and co-authors all the time
+    - work hard on the first complete draft of the manuscript before you share it with co-authors. You do not want to share a document that is half-baked or not easy to read. You want to be respectful of your co-authors' time by putting your best work forward
+
+### Manuscripts
+- By the time that you finish your first complete version of the manuscript (to send to co-authors), I expect that your manuscript will
+    - be properly structured (e.g. introduction, methods, simulations, data analysis). Look at options in the journal/conference of interest to follow specific guidelines related to manuscript structure
+    - be well-written. We are constantly learning writing skills, so your manuscript is not expected to be perfect. But you should strive to make an effort to make it understandable and use all necessary resources at your disposal
+    - contain good quality figures to present results, but perhaps not in perfect form yet
+    - be in the conference/journal format if we have already decided where to submit. This is important in case there are page limits that we need to consider when revising the manuscript 
+    - have the proper citations
+
+- By the time the manuscript is ready for submission, I expect that your manuscript will
+    - be fully reproducible, everything must be backed up and supported by data, simulations, scripts
+    - be accompanied by a github repo with the necessary reproducible scripts, textfiles, notes, ... to reproduce the analysis and simulations
+    - be well-written, and that you have incorporated the feedback/suggestions from the co-authors
+    - have high-quality figures and if possible, graphical abstracts to describe the manuscript's main content
