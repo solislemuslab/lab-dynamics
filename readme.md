@@ -1,0 +1,3 @@
+# Solis-Lemus lab
+
+Useful guidelines, advice, format, recipes,...
