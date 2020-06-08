@@ -40,6 +40,7 @@ Based on NIH description of Specific Aims, and NSF description of Project Summar
     - Designing the project plan (often in collaboration with other members of the research team);
     - Obtaining approval of all coauthors on the final draft, and
     - Understanding the general principles of all work included in the manuscript.
+
 The manuscript deliverable must be a good version of the manuscript that is complete, has been proof-read by you, and is properly cited. You should have given it a lot of thought and work to produce the version that you will share with your co-authors. You should use the resources of the Writing Center to produce this version
 
 - Another common deliverable will be open-source software. Keep in mind that there is a huge gap between code that runs, and code that is suitable for publication and you should consider this in your timeline. Follow reproducibility practices and best computing practices (examples in [lab guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md)). Keep in mind that suboptimal code will not be deemed suitable for publication
