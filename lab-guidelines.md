@@ -33,14 +33,14 @@ Based on (shamelessly copied from) "Guidelines for Research in the Baum lab" by 
 
 
 # What you can expect from me:
-- I will work tirelessly for the good of the lab group; the success of every member of our group is my top priority. I will be transparent about the lab’s financial situation and honest about the amount of further funding that I can provide.
+- **I will work tirelessly for the good of the lab group**; the success of every member of our group is my top priority. I will be transparent about the lab’s financial situation and honest about the amount of further funding that I can provide.
 - I will be available for regular meetings and informal conversations. At our scheduled one-on-one meetings (ideally every week) we will address questions or concerns that you have. Our regular meetings can be more productive if you prepare a short summary of what you want to address and send it to me the day before so that I have time to look at it and prepare. If you need to miss a meeting, it is your responsibility to reschedule; I will show you the same courtesy. Slack is the best way to communicate with me, but emails are also ok. I do not always respond on weekends as I spent this time with my family. If my office door is open, feel free to stop by.
 - I will involve you in the process of writing grant proposals, from the original ideas through submission. The goal of this is to help expose you to this important aspect of science and help you contribute to my efforts to fund your work and the lab in general.
 - I will discuss authorship policies regarding papers with you. I will acknowledge your scientific contributions to the work in my laboratory, and I will work with you to help you publish your work in a timely manner.
-- You can count on me to do my very best to promote you as a scientist and your work. I will help you in your professional development and in your efforts to communicate your work. I will work very hard to adequately fund our laboratory and to disseminate its results. I will do my best to provide timely review of your research. 
+- **You can count on me to do my very best to promote you as a scientist and your work**. I will help you in your professional development and in your efforts to communicate your work. I will work very hard to adequately fund our laboratory and to disseminate its results. I will do my best to provide timely review of your research. 
 - My primary role is to (1) help you think clearly about theoretical issues driving your research and (2) successfully bring in grants and to steward our resources so that we all benefit to the maximum extent from our joint efforts. I will also make every attempt to help you network into the scientific community, including assistance finding post-doctoral and faculty positions.
 - I am committed to mentoring you, even after you leave my lab. I am committed to your education and training while you are in my lab, and to advising and guiding your career development – to the degree you wish—long after you leave. I will provide honest letters of evaluation for you when you request them.
-- I am committed to your research projects. I will help to plan and direct your projects, set reasonable and attainable goals, and establish a timeline for completion of projects.
+- **I am committed to your research projects.** I will help to plan and direct your projects, set reasonable and attainable goals, and establish a timeline for completion of projects.
 - I will not require you to perform tasks that are unrelated to your professional development.
 - I will lead by example and facilitate your training in complementary skills needed to be a successful scientist, such as oral and written communication skills, lab management, and scientific professionalism. I will encourage you to seek opportunities in teaching or outreach, provided these remain manageable in scope.
 - I will encourage you to attend scientific/professional meetings and will make an effort to fund such activities. I will not be able to cover all of requests but I will try.
@@ -67,8 +67,8 @@ See [Wilson, et al 2014](https://journals.plos.org/plosbiology/article?id=10.137
     - study resources on computing practices, reproducibility, version control, organization of projects, naming files. There are some links in [here](https://github.com/crsl4/mindful-programming/blob/master/lecture.md) that I expect that you will study, understand and follow when programming
     - understand that reproducibility is a process. No one is reproducible from one day to the next. It is a constant process, and it will feel unnatural a times
     - assume that everything that you are doing right now will need to be redone at some point in the future: be prepared
-    - ask for help if you need it. If you are feeling overwhelmed or stressed or don't know where to start, please reach out and I am happy to talk with you to find solutions
-    - note that if you are already reproducible and keep good notes by other means (not highlighted here), do continue that way! In fact, I am always eager to learn different ideas! This document is not meant to force anyone to do one particular style of best computing and reproducibility practices. Just keep in mind that whatever your style, we should discuss it and make sure that we are all on the same boat when it comes to expectations and outcomes
+    - ask for help if you need it. **If you are feeling overwhelmed or stressed or don't know where to start, please reach out and I am happy to talk with you to find solutions**
+    - note that if you are already reproducible and keep good notes by other means (not highlighted here), do continue that way! In fact, I am always eager to learn different ideas! **This document is not meant to force anyone to do one particular style of best computing and reproducibility practices.** Just keep in mind that whatever your style, we should discuss it and make sure that we are all on the same boat when it comes to expectations and outcomes
 
 ## Clear scientific communication: manuscripts and presentations
 
@@ -80,7 +80,6 @@ It is not enough to do "good science", we need to be good communicators of our s
     - accept that good skills in academic writing are a key component in a scientist's development
     - practice your presentations with multiple people, and be responsive to constructive criticism
     - make writing clear manuscript and delivering clear presentations a priority for your growth as a scientist
-    - use one-on-one instruction at the Writing Center (or alternative resources) as you prepare your manuscripts
     - accept that at the beginning I may heavily edit your manuscripts. Don't feel discouraged! It is part of the learning process that we accept feedback from peers. My manuscripts are also edited by colleagues and co-authors all the time
     - work hard on the first complete draft of the manuscript before you share it with co-authors. You do not want to share a document that is half-baked or not easy to read. You want to be respectful of your co-authors' time by putting your best work forward
 
