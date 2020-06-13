@@ -1,4 +1,4 @@
-There are many skills that we need to informally learn in academia: written and oral communication skills; reproducibility; lab dynamics like working on a team, giving/accepting constructive feedback; getting your own funding... Here I've compiled a list of resources (hopefully up to date) to learn more about such necessary skills.
+There are many skills that we need to informally learn in academia: written and oral communication skills; reproducibility; lab dynamics like working on a team, giving/accepting constructive feedback; getting your own funding... Here I've compiled a list of resources (hopefully up to date) to learn more about some of those skills.
 
 # Reproducibility and best computing practices
 
