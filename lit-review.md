@@ -28,3 +28,6 @@
 8. Understanding the julia package PhyloNetworks:
     - [Tutorial](https://github.com/crsl4/PhyloNetworks.jl/wiki)
     - [SolisLemus2017](https://academic.oup.com/mbe/article/34/12/3292/4103410?guestAccessKey=1d2c94f2-f064-42ae-a652-ce14cd095442)
+
+9. Other helpful software
+    - [TREEasy](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13149?af=R) to infer gene trees, species trees/networks from multilocus data

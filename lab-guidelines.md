@@ -1,5 +1,6 @@
 # Solis-Lemus lab guidelines
-Based on (shamelessly copied from) "Guidelines for Research in the Baum lab" by David Baum
+Based on (shamelessly copied from) "Guidelines for Research in the Baum lab" by David Baum.
+_This is a dynamic document; please suggest modifications to improve these general guidelines._
 
 ## What I expect from you:
 - You will take ownership of your experience
