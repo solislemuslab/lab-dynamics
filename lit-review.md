@@ -1,6 +1,8 @@
 # Learning phylogenetic networks
 
-0. Phylogenetics 101 youtube videos by Paul Lewis [Part 1](https://www.youtube.com/watch?v=1r4z0YJq580). Other parts 2,3,4 are also good to check out.
+0. Introduction to phylogenetics
+    - Phylogenetics 101 youtube videos by Paul Lewis [Part 1](https://www.youtube.com/watch?v=1r4z0YJq580). Other parts 2,3,4 are also good to check out
+    - [Phylogenomics book](https://hal.inria.fr/PGE/page/table-of-contents)
 
 1. Understanding probabilities of gene trees under a species tree with the coalescent model: [Degnan2005](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0014-3820.2005.tb00891.x)
 
