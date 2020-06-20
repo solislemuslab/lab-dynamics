@@ -52,16 +52,6 @@ _This is a dynamic document; please suggest modifications to improve these gener
 # Guidelines for manuscripts and code
 
 ## Best computing practices for code
-See [Wilson, et al 2014](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
-
-1. Write programs for people, not computers
-2. Let the computer do the work (functions, scripts)
-3. Make incremental changes (use version control)
-4. Don’t repeat yourself (or others): no copy-paste!
-5. Plan for mistakes (add assersions to programs, code defensively)
-6. Optimize software only after it works correctly
-7. Document design and purpose, not mechanics
-8. Collaborate (github pull requests/issues)
 
 - I expect that you will 
     - read and adhere to the guidelines in [here](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
