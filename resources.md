@@ -6,6 +6,7 @@ There are many skills that we need to informally learn in academia: written and 
 - The importance of Open Science in Andrew Gelman's [blog](https://statmodeling.stat.columbia.edu/2020/06/11/bla-bla-bla-peer-review-bla-bla-bla/)
 - My notes on [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
 - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) by Karl Broman
+- [Reproducible programming for biologists who code](https://ben-heil.github.io/2020-06-16-mustdo/) by Ben Heil
 
 
 # Peer-reviews and publishing
@@ -48,6 +49,7 @@ A few examples below.
 
 - The history of statistics: Github [repo](https://github.com/sctyner/history_of_statistics) by Sam Tyner
 - [Statistical Rethinking in Julia](https://github.com/StatisticalRethinkingJulia/StatisticalRethinking.jl) by Richard McElreath
+- [Statistical Rethinking in R](https://bookdown.org/content/4857/) by A Solomon Kurz
 - [Modern Statistics for Biology](https://www.huber.embl.de/msmb/introduction.html) by Susan Holmes and Wolfgang Huber
 - [Calling Bullsh*t](https://callingbullshit.org/index.html): Data reasoning in a digital world by Carl Bergstrom and Jevin West
 
@@ -71,3 +73,4 @@ A few examples below.
 
 # Microbiome
 - Statistical methods in Microbiome Research [workshop notes](https://web.stanford.edu/class/bios221/Pune/) by Susan Holmes and Leo Lahti
+- [STAMPS2019](https://github.com/mblstamps/stamps2019/wiki)
