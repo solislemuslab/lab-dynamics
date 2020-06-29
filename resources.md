@@ -14,6 +14,7 @@ There are many skills that we need to informally learn in academia: written and 
 - [JEFworks guide to peer review](https://jef.works/blog/2020/03/23/a-guide-to-scientific-peer-review/)
 - [Connected papers](https://www.connectedpapers.com/) is a visualization tool to see how papers in a certain field are connected. This is helpful when finding papers or experts related to a topic
 - Some thoughts on [authorship guidelines](https://github.com/SeedscapeEcology/Policies/blob/master/Authorship_Guidelines.md) from the [Beckman Research Group](http://seedscape.github.io/BeckmanLab/)
+- Improve scientific writing: [10 simple rules](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165) by Scott Hotaling
 
 
 # Getting funding
@@ -28,6 +29,8 @@ A few examples below.
 - NIH K99/R00 Path to Independence [award](https://researchtraining.nih.gov/programs/career-development/k99-r00) (for postdocs)
 
 - Burroughs Wellcome Fund Career Awards at the Scientific Interface [CASI](https://www.bwfund.org/grant-programs/interfaces-science/career-awards-scientific-interface) (for postdocs)
+
+- [NIH grant writing samples](https://www.uab.edu/ccts/research-commons/grant-help/proposal-development/grant-library?utm_source=home&utm_medium=banner&utm_campaign=sixpack&utm_content=)
 
 
 ## Within UW-Madison
@@ -52,6 +55,8 @@ A few examples below.
 - [Statistical Rethinking in R](https://bookdown.org/content/4857/) by A Solomon Kurz
 - [Modern Statistics for Biology](https://www.huber.embl.de/msmb/introduction.html) by Susan Holmes and Wolfgang Huber
 - [Calling Bullsh*t](https://callingbullshit.org/index.html): Data reasoning in a digital world by Carl Bergstrom and Jevin West
+- [The role of p-values](https://www.tandfonline.com/doi/full/10.1080/19466315.2020.1724560) by Eric Gibson
+
 
 # Diversity and inclusion in science
 
@@ -74,3 +79,7 @@ A few examples below.
 # Microbiome
 - Statistical methods in Microbiome Research [workshop notes](https://web.stanford.edu/class/bios221/Pune/) by Susan Holmes and Leo Lahti
 - [STAMPS2019](https://github.com/mblstamps/stamps2019/wiki)
+
+# Networking
+- [Tutorial for github website](https://kbroman.org/simple_site/) by Karl Broman
+- [Academic github website](https://github.com/academicpages/academicpages.github.io)
