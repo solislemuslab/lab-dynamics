@@ -73,6 +73,7 @@ It is not enough to do "good science", we need to be good communicators of our s
     - make writing clear manuscript and delivering clear presentations a priority for your growth as a scientist
     - accept that at the beginning I may heavily edit your manuscripts. Don't feel discouraged! It is part of the learning process that we accept feedback from peers. My manuscripts are also edited by colleagues and co-authors all the time
     - work hard on the first complete draft of the manuscript before you share it with co-authors. You do not want to share a document that is half-baked or not easy to read. You want to be respectful of your co-authors' time by putting your best work forward
+    - check out the [resources](https://github.com/solislemuslab/lab-dynamics/blob/master/resources.md) such as [10 simple rules for concise scientific writing](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165) by Scott Hotaling
 
 ### Manuscripts
 - By the time that you finish your first complete version of the manuscript (to send to co-authors), I expect that your manuscript will
