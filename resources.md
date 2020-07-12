@@ -7,7 +7,7 @@ There are many skills that we need to informally learn in academia: written and 
 - My notes on [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
 - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) by Karl Broman
 - [Reproducible programming for biologists who code](https://ben-heil.github.io/2020-06-16-mustdo/) by Ben Heil
-
+- [Data organization in spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989) by Karl Broman and Kara Woo
 
 # Peer-reviews and publishing
 
@@ -56,6 +56,7 @@ A few examples below.
 - [Modern Statistics for Biology](https://www.huber.embl.de/msmb/introduction.html) by Susan Holmes and Wolfgang Huber
 - [Calling Bullsh*t](https://callingbullshit.org/index.html): Data reasoning in a digital world by Carl Bergstrom and Jevin West
 - [The role of p-values](https://www.tandfonline.com/doi/full/10.1080/19466315.2020.1724560) by Eric Gibson
+- [Ten quick tips for effective dimensionality reduction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907) by Lan H. Nguyen and Susan Holmes
 
 
 # Diversity and inclusion in science
