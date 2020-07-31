@@ -67,6 +67,7 @@ It is not enough to do "good science", we need to be good communicators of our s
 
 - I expect that you will
     - actively search ways to improve your oral and communication skills
+    - be genuinely interested in communicating your science to any type of audience in a simple and effective manner
     - use the many university resources (like the Writing Center) to your advantage
     - accept that good skills in academic writing are a key component in a scientist's development
     - practice your presentations with multiple people, and be responsive to constructive criticism
@@ -74,6 +75,7 @@ It is not enough to do "good science", we need to be good communicators of our s
     - accept that at the beginning I may heavily edit your manuscripts. Don't feel discouraged! It is part of the learning process that we accept feedback from peers. My manuscripts are also edited by colleagues and co-authors all the time
     - work hard on the first complete draft of the manuscript before you share it with co-authors. You do not want to share a document that is half-baked or not easy to read. You want to be respectful of your co-authors' time by putting your best work forward
     - check out the [resources](https://github.com/solislemuslab/lab-dynamics/blob/master/resources.md) such as [10 simple rules for concise scientific writing](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165) by Scott Hotaling
+    - acknowledge that it is our job as communicators to connect with different audiences (statisticians, biologists, general public) and communicating our ideas effectively is not an "extra burden", it is at the core of our work as scientists
 
 ### Manuscripts
 - By the time that you finish your first complete version of the manuscript (to send to co-authors), I expect that your manuscript will
@@ -87,4 +89,5 @@ It is not enough to do "good science", we need to be good communicators of our s
     - be fully reproducible, everything must be backed up and supported by data, simulations, scripts
     - be accompanied by a github repo with the necessary reproducible scripts, textfiles, notes, ... to reproduce the analysis and simulations
     - be well-written, and that you have incorporated the feedback/suggestions from the co-authors
-    - have high-quality figures and if possible, graphical abstracts to describe the manuscript's main content
+    - have high-quality figures
+    - have a science communication component to promote the work: graphical abstract, infographics (see [canva](https://www.canva.com/tools/infographic-maker-v1/)), or a 5-min lighting talk to post on the lab youtube channel
