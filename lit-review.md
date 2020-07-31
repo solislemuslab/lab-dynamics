@@ -33,3 +33,10 @@
 
 9. Other helpful software
     - [TREEasy](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13149?af=R) to infer gene trees, species trees/networks from multilocus data
+
+10. Simulators
+    - [Zombi (python)](https://academic.oup.com/bioinformatics/article/36/4/1286/5578480)
+    - [ipcoal (python)](https://www.biorxiv.org/content/10.1101/2020.01.15.908236v1)
+    - [HybridSim (java)](https://academic.oup.com/gbe/article/8/5/1299/2939560). [Github](https://github.com/MichaelWoodhams/HybridSim)
+    - [NetGen (C)](https://academic.oup.com/bioinformatics/article/22/15/1921/242472)
+    - [Birth-Hybridization (BEAST2)](https://academic.oup.com/mbe/article/35/2/504/4705834)
