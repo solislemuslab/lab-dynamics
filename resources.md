@@ -57,6 +57,7 @@ A few examples below.
 - [Calling Bullsh*t](https://callingbullshit.org/index.html): Data reasoning in a digital world by Carl Bergstrom and Jevin West
 - [The role of p-values](https://www.tandfonline.com/doi/full/10.1080/19466315.2020.1724560) by Eric Gibson
 - [Ten quick tips for effective dimensionality reduction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907) by Lan H. Nguyen and Susan Holmes
+- [Seeing Theory](https://seeing-theory.brown.edu/index.html#firstPage): A visual introduction to probability and statistics by Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang
 
 
 # Diversity and inclusion in science
