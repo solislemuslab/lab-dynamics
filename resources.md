@@ -69,6 +69,7 @@ A few examples below.
 - Diversity and Inclusion Lab [Posters](https://sammykatta.com/diversity)
 - Academics for Black Survival and Wellness [website](https://www.academics4blacklives.com/)
 - [Bias Watch Neuro](https://biaswatchneuro.com/about/)
+- [Whiteness in hiring committees](https://www.hepgjournals.org/doi/pdf/10.17763/1943-5045-87.4.557)
 
 ## Within UW-Madison
 - [WISELI](https://wiseli.wisc.edu/workshops/) Women in Science and Engineering Leadership Institute
