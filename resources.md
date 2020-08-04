@@ -82,6 +82,7 @@ A few examples below.
 # Microbiome
 - Statistical methods in Microbiome Research [workshop notes](https://web.stanford.edu/class/bios221/Pune/) by Susan Holmes and Leo Lahti
 - [STAMPS2019](https://github.com/mblstamps/stamps2019/wiki)
+- [History of metagenomics](http://merenlab.org/2020/07/27/history-of-metagenomics/) by Matthew Schechter
 
 # Networking
 - [Tutorial for github website](https://kbroman.org/simple_site/) by Karl Broman
