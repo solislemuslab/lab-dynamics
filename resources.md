@@ -8,6 +8,7 @@ There are many skills that we need to informally learn in academia: written and 
 - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) by Karl Broman
 - [Reproducible programming for biologists who code](https://ben-heil.github.io/2020-06-16-mustdo/) by Ben Heil
 - [Data organization in spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989) by Karl Broman and Kara Woo
+- JSM 2020 [Panel on version control with git in stat cources](https://github.com/mdbeckman/JSM2020-Virtual)
 
 # Peer-reviews and publishing
 
