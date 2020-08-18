@@ -59,6 +59,7 @@ A few examples below.
 - [The role of p-values](https://www.tandfonline.com/doi/full/10.1080/19466315.2020.1724560) by Eric Gibson
 - [Ten quick tips for effective dimensionality reduction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907) by Lan H. Nguyen and Susan Holmes
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html#firstPage): A visual introduction to probability and statistics by Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang
+- [Graphs+Networks workshop materials](https://sites.tufts.edu/vrdi/gn-materials/) and [reading list](https://sites.tufts.edu/vrdi/gn-readings/) by MGGG Lab Outreach
 
 
 # Diversity and inclusion in science
