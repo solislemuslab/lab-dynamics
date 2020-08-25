@@ -76,6 +76,7 @@ A few examples below.
 ## Within UW-Madison
 - [WISELI](https://wiseli.wisc.edu/workshops/) Women in Science and Engineering Leadership Institute
 - [WID Anti-Racist Resources](https://wid.wisc.edu/category/anti-racist-resources/)
+- [SciMed](https://scimedgrs.wisc.edu/)
 
 # Teaching
 - Using GitHub classroom and Travis CI [blog](https://github.blog/2019-02-12-how-github-classroom-and-travis-ci-improved-students-grades/)
