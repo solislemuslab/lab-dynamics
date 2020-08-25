@@ -60,7 +60,7 @@ A few examples below.
 - [Ten quick tips for effective dimensionality reduction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907) by Lan H. Nguyen and Susan Holmes
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html#firstPage): A visual introduction to probability and statistics by Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang
 - [Graphs+Networks workshop materials](https://sites.tufts.edu/vrdi/gn-materials/) and [reading list](https://sites.tufts.edu/vrdi/gn-readings/) by MGGG Lab Outreach
-
+- [IMS World symposium 2020](https://www.worldsymposium2020.org/program/prerecorded-talks) pre-recorded talks
 
 # Diversity and inclusion in science
 
