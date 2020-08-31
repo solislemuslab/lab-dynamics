@@ -62,6 +62,7 @@ A few examples below.
 - [Graphs+Networks workshop materials](https://sites.tufts.edu/vrdi/gn-materials/) and [reading list](https://sites.tufts.edu/vrdi/gn-readings/) by MGGG Lab Outreach
 - [IMS World symposium 2020](https://www.worldsymposium2020.org/program/prerecorded-talks) pre-recorded talks
 - [Seminar Math Data Science 2020](https://sites.google.com/view/seminarmathdatascience/home) pre-recorded talks
+- [SVM Dual formulation](https://medium.com/@sathvikchiramana/svm-dual-formulation-7535caa84f17) post by Sathvik Chiramana
 
 # Diversity and inclusion in science
 
