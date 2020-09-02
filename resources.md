@@ -27,11 +27,13 @@ A few examples below.
 
 - NSF Graduate Research Fellowship [GRFP](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201)
 
-- NIH K99/R00 Path to Independence [award](https://researchtraining.nih.gov/programs/career-development/k99-r00) (for postdocs)
+- NIH K99/R00 Path to Independence [award](https://researchtraining.nih.gov/programs/career-development/k99-r00) (for postdocs; no need of US-citizenship)
 
-- Burroughs Wellcome Fund Career Awards at the Scientific Interface [CASI](https://www.bwfund.org/grant-programs/interfaces-science/career-awards-scientific-interface) (for postdocs)
+- Burroughs Wellcome Fund Career Awards at the Scientific Interface [CASI](https://www.bwfund.org/grant-programs/interfaces-science/career-awards-scientific-interface) (for postdocs; no need of US-citizenship)
 
 - [NIH grant writing samples](https://www.uab.edu/ccts/research-commons/grant-help/proposal-development/grant-library?utm_source=home&utm_medium=banner&utm_campaign=sixpack&utm_content=)
+
+- [Branco Weiss Fellowship](https://brancoweissfellowship.org/) (for postdocs; no need of US-citizenship)
 
 
 ## Within UW-Madison
