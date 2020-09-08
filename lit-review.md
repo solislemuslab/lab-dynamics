@@ -27,6 +27,8 @@
     - [Degnan2018](https://academic.oup.com/sysbio/article/67/5/786/5017269)
     - [Blair2019](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz056/5552158)
 
+8. Moves in network space: [Gambette2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005611)
+
 8. Understanding the julia package PhyloNetworks:
     - [Tutorial](https://github.com/crsl4/PhyloNetworks.jl/wiki)
     - [SolisLemus2017](https://academic.oup.com/mbe/article/34/12/3292/4103410?guestAccessKey=1d2c94f2-f064-42ae-a652-ce14cd095442)
