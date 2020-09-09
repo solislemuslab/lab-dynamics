@@ -16,6 +16,7 @@ There are many skills that we need to informally learn in academia: written and 
 - [Connected papers](https://www.connectedpapers.com/) is a visualization tool to see how papers in a certain field are connected. This is helpful when finding papers or experts related to a topic
 - Some thoughts on [authorship guidelines](https://github.com/SeedscapeEcology/Policies/blob/master/Authorship_Guidelines.md) from the [Beckman Research Group](http://seedscape.github.io/BeckmanLab/)
 - Improve scientific writing: [10 simple rules](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165) by Scott Hotaling
+- Improve tables with R: [Guidelines for better tables](https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/#rule-1-offset-the-heads-from-the-body) by Thomas Mock
 
 
 # Getting funding
