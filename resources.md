@@ -10,14 +10,14 @@ There are many skills that we need to informally learn in academia: written and 
 - [Data organization in spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989) by Karl Broman and Kara Woo
 - JSM 2020 [Panel on version control with git in stat cources](https://github.com/mdbeckman/JSM2020-Virtual)
 
-# Peer-reviews and publishing
+# Peer-reviews and publishing (Sci comm)
 
 - [JEFworks guide to peer review](https://jef.works/blog/2020/03/23/a-guide-to-scientific-peer-review/)
 - [Connected papers](https://www.connectedpapers.com/) is a visualization tool to see how papers in a certain field are connected. This is helpful when finding papers or experts related to a topic
 - Some thoughts on [authorship guidelines](https://github.com/SeedscapeEcology/Policies/blob/master/Authorship_Guidelines.md) from the [Beckman Research Group](http://seedscape.github.io/BeckmanLab/)
 - Improve scientific writing: [10 simple rules](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165) by Scott Hotaling
 - Improve tables with R: [Guidelines for better tables](https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/#rule-1-offset-the-heads-from-the-body) by Thomas Mock
-
+- [Elevator pitch](https://graduateschool.nd.edu/assets/76988/elevator_pitch_8_28_2012.pdf): how to present your research by Gretchen Busl
 
 # Getting funding
 
