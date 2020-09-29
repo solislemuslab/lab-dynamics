@@ -77,6 +77,7 @@ A few examples below.
 - Academics for Black Survival and Wellness [website](https://www.academics4blacklives.com/)
 - [Bias Watch Neuro](https://biaswatchneuro.com/about/)
 - [Whiteness in hiring committees](https://www.hepgjournals.org/doi/pdf/10.17763/1943-5045-87.4.557)
+- [Grace Hopper Celebration conference](https://ghc.anitab.org/about/our-history/)
 
 ## Within UW-Madison
 - [WISELI](https://wiseli.wisc.edu/workshops/) Women in Science and Engineering Leadership Institute
