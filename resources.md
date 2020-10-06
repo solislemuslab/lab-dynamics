@@ -50,6 +50,7 @@ A few examples below.
 - NIH Workplace dynamics [series](training.nih.gov/leadership_training)
 - Virtual NIH [activities](https://www.training.nih.gov/virtual_nih_activities_for_trainees_outside_the_nih)
 - 4 bad habits in managers in [Ideas TED](https://ideas.ted.com/do-you-have-any-of-these-4-bad-habits-of-managers-heres-how-to-change-them/amp/?__twitter_impression=true)
+- [EMBO lab leadership workshops](https://lab-management.embo.org/course-overview)
 
 
 # Statistics
