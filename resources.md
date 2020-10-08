@@ -19,6 +19,7 @@ There are many skills that we need to informally learn in academia: written and 
 - Improve tables with R: [Guidelines for better tables](https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/#rule-1-offset-the-heads-from-the-body) by Thomas Mock
 - [Elevator pitch](https://graduateschool.nd.edu/assets/76988/elevator_pitch_8_28_2012.pdf): how to present your research by Gretchen Busl
 - [Good figures](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2014.pdf) by Karl Broman
+- [Ten rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) by Rougier et al
 
 # Getting funding
 
