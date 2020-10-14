@@ -9,7 +9,7 @@ _This is a dynamic document; please suggest modifications to improve these gener
     - **Be knowledgeable of the policies of the institute and university.** Comply with all institutional policies, including intellectual property rules, and codes of conduct.
 
 - You will be a team player
-    - **Attend and actively participate in all laboratory meetings**, as well as relevant seminars. Participation in lab meetings does not mean only presenting your own work, but also providing support to others in the lab through constructive questions and shared insights.
+    - **Attend and actively participate in all laboratory meetings**, as well as relevant seminars. Participation in lab meetings does not mean only presenting your own work, but also providing support to others in the lab through constructive questions and shared insights. Please provide 24-hour notice if you will miss meetings.
     - **Strive to be the very best lab citizen.** Be respectful, tolerant of, and work collegially with all lab colleagues: respect individual differences in values, personalities, work styles, and theoretical perspectives. 
     - **Acknowledge the efforts of everyone in the lab.**
     
