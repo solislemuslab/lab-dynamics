@@ -4,14 +4,6 @@ Based on the "Cooking recipe" for writing a project plan by Doerte Doepfer.
 This document is mostly for graduate students and postdocs. But if you are an undergraduate student that wants to do a project plan, please talk to me!
 _This is a dynamic document; please suggest modifications to improve these general guidelines._
 
-## Components of a good project plan
-Based on NIH description of Specific Aims, and NSF description of Project Summary:
-- Describe concisely the goals of the proposed research and summarize the expected outcome(s), impact on the research field, and specific objectives
-- List the broad, long-term objectives and the goal of the specific research proposed
-- State the general purpose or major objectives of your research. Be sure that all objectives relate directly to the overall goal you are setting out to test
-- Choose objectives that can be easily assessed by a review committee. Do not confuse specific aims with long-term goals
-- Provide a self-contained description of the activities
-
 ## 11 steps towards writing the project plan
 
 1. Identify the main goal of the project and capture it in a title
@@ -21,7 +13,7 @@ Based on NIH description of Specific Aims, and NSF description of Project Summar
 5. State the significance: why does this matter? why should the world care about this research? (2-5 sentences)
 6. State the innovation: what is new about your project compared to existing approaches? (2-4 sentences)
 7. List of deliverables: these are actual products that will come out of this project. Examples: publication(s), open source software to distribute, conference presentation(s), grant proposal(s). Provide details to which journals/conferences/grant mechanisms you want to submit (with deadlines if possible)
-8. Timeline for your deliverables: how long do yo expect to work on each task? How much time do you need on each specific aim? You can break down the deliverables into pieces, including specific aims. Example: Months 1-3: literature search on existing tools. Months 4-7 Implementation of model in Specific Aim 1,...You can be as descriptive and detailed as you want. This plan will help you to guide your research to completion
+8. Timeline for your deliverables: how long do yo expect to work on each aim (roughly)? You can be as descriptive and detailed as you want, or simply provide rough estimates. This plan is for you to help you to guide your research to completion. Make sure to include deadlines in the timeline (if you have any, for example, for conferences)
 9. People in the team: do you need other people to succeed in this plan? If you are a graduate student, do you think that having undergraduate students helping you on some parts of the project would be beneficial and how? If you are a postdoc, do you think that having graduate students or undergraduate students working with you could be beneficial? Sometimes having extra students on the project is not possible, so you perhaps do not want to state that you necessarily need X students working with you for the success of the project, but you can highlight potential work that could be delegated
 10. Potential limitations and alternatives: What are the main barriers that you expect to encounter? What is your plan to overcome those barriers? What would happen if the research you propose does not work out? What are your alternatives? Can you try other approaches?
 11. Future work: If the research proposed is successful, what else could be done afterwards with this theory? What are natural extensions to this work?
@@ -31,6 +23,7 @@ Based on NIH description of Specific Aims, and NSF description of Project Summar
 2. Use the resources of the Writing Center! They have one-on-one help to polish written work
 3. Show your project plan to many people to get feedback. It is good if you share your project plan with people outside your area of expertise
 4. Discuss the project plan with the PI
+5. Understand that the project plan is a mutable object that will be constantly evolving as you work on the project
 
 ## Things to keep in mind regarding the deliverables
 - The deliverables must be up to standards with the [lab guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md) of reproducibility, clear communication, etc. You do not need to think about these guidelines as you prepare the project plan, but they are important to know as you write your timeline. That is, do not expect that you will send your manuscript to co-authors and it will be submitted for publication within one week
@@ -41,7 +34,5 @@ Based on NIH description of Specific Aims, and NSF description of Project Summar
     - Designing the project plan (often in collaboration with other members of the research team);
     - Obtaining approval of all coauthors on the final draft, and
     - Understanding the general principles of all work included in the manuscript.
-
-The manuscript deliverable must be a good version of the manuscript that is complete, has been proof-read by you, and is properly cited. You should have given it a lot of thought and work to produce the version that you will share with your co-authors. You should use the resources of the Writing Center to produce this version
 
 - Another common deliverable will be open-source software. Keep in mind that there is a huge gap between code that runs, and code that is suitable for publication and you should consider this in your timeline. Follow reproducibility practices and best computing practices (examples in [lab guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md)). Keep in mind that suboptimal code will not be deemed suitable for publication
