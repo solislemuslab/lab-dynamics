@@ -20,6 +20,7 @@ There are many skills that we need to informally learn in academia: written and 
 - [Elevator pitch](https://graduateschool.nd.edu/assets/76988/elevator_pitch_8_28_2012.pdf): how to present your research by Gretchen Busl
 - [Good figures](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2014.pdf) by Karl Broman
 - [Ten rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) by Rougier et al
+- [Ten rules to colorize](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259) by Hattab et al
 
 # Getting funding
 
