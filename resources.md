@@ -21,6 +21,7 @@ There are many skills that we need to informally learn in academia: written and 
 - [Good figures](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2014.pdf) by Karl Broman
 - [Ten rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) by Rougier et al
 - [Ten rules to colorize](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259) by Hattab et al
+- [Publishing papers while keeping everything in balance](https://ojs.library.queensu.ca/index.php/IEE/article/view/9045) by Scott Hotaling
 
 # Getting funding
 
@@ -70,6 +71,7 @@ A few examples below.
 - [IMS World symposium 2020](https://www.worldsymposium2020.org/program/prerecorded-talks) pre-recorded talks
 - [Seminar Math Data Science 2020](https://sites.google.com/view/seminarmathdatascience/home) pre-recorded talks
 - [SVM Dual formulation](https://medium.com/@sathvikchiramana/svm-dual-formulation-7535caa84f17) post by Sathvik Chiramana
+- [Learning stat with R](https://ourcodingclub.github.io/tutorials.html)
 
 # Diversity and inclusion in science
 
