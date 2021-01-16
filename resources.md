@@ -72,6 +72,7 @@ A few examples below.
 - [Seminar Math Data Science 2020](https://sites.google.com/view/seminarmathdatascience/home) pre-recorded talks
 - [SVM Dual formulation](https://medium.com/@sathvikchiramana/svm-dual-formulation-7535caa84f17) post by Sathvik Chiramana
 - [Learning stat with R](https://ourcodingclub.github.io/tutorials.html)
+- [Learning optimization algorithms](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)
 
 # Diversity and inclusion in science
 
