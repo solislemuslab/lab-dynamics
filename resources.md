@@ -2,6 +2,7 @@ There are many skills that we need to informally learn in academia: written and 
 
 # Reproducibility and best computing practices
 
+- [Steps for reproducible research YouTube talk](https://www.youtube.com/watch?app=desktop&v=rNQ-RlG3JnQ&feature=youtu.be) by Karl Broman (highly encouraged!)
 - Motivating reading on the importance of reproducibility: [Nature collection](https://www.nature.com/news/reproducibility-1.17552)
 - The importance of Open Science in Andrew Gelman's [blog](https://statmodeling.stat.columbia.edu/2020/06/11/bla-bla-bla-peer-review-bla-bla-bla/)
 - My notes on [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
