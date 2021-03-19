@@ -76,6 +76,8 @@ A few examples below.
 - [Learning stat with R](https://ourcodingclub.github.io/tutorials.html)
 - [Learning optimization algorithms](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)
 - [Summer Institutes: SISMID 2021](https://si.biostat.washington.edu/suminst/sismid2021/modules)
+- [Data Analysis in R](https://bookdown.org/steve_midway/DAR/) by Steve Midway
+- [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) YouTube channel by Josh Starmer
 
 # Diversity and inclusion in science
 
