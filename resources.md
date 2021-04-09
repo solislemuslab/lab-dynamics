@@ -30,17 +30,22 @@ There are many skills that we need to informally learn in academia: written and 
 Showing that you are able to acquire your own funding is very important in the academic landscape. Even if you are fully funded by your department or PI, consider applying to a scholarship or fellowship to learn valuable grant writing skills and improving your CV.
 A few examples below.
 
+## Undergraduate and Graduate
+
 - List of scholarships and fellowships that do not require US citizenship in [ImmigrantsRising](https://immigrantsrising.org/2020scholarships/)
 
 - NSF Graduate Research Fellowship [GRFP](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201)
 
+## Postdoc
+
 - NIH K99/R00 Path to Independence [award](https://researchtraining.nih.gov/programs/career-development/k99-r00) (for postdocs; no need of US-citizenship)
+    - [NIH grant writing samples](https://www.uab.edu/ccts/research-commons/grant-help/proposal-development/grant-library?utm_source=home&utm_medium=banner&utm_campaign=sixpack&utm_content=)
 
 - Burroughs Wellcome Fund Career Awards at the Scientific Interface [CASI](https://www.bwfund.org/grant-programs/interfaces-science/career-awards-scientific-interface) (for postdocs; no need of US-citizenship)
 
-- [NIH grant writing samples](https://www.uab.edu/ccts/research-commons/grant-help/proposal-development/grant-library?utm_source=home&utm_medium=banner&utm_campaign=sixpack&utm_content=)
-
 - [Branco Weiss Fellowship](https://brancoweissfellowship.org/) (for postdocs; no need of US-citizenship)
+
+- [Marie Curie Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) (for postdocs; no need of US-citizenship)
 
 
 ## Within UW-Madison
