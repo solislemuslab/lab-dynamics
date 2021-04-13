@@ -83,6 +83,7 @@ A few examples below.
 - [Summer Institutes: SISMID 2021](https://si.biostat.washington.edu/suminst/sismid2021/modules)
 - [Data Analysis in R](https://bookdown.org/steve_midway/DAR/) by Steve Midway
 - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) YouTube channel by Josh Starmer
+- [Julia for Data Science](https://www.juliafordatascience.com/) by Josh Day
 
 # Diversity and inclusion in science
 
