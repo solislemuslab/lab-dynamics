@@ -20,7 +20,7 @@ _This is a dynamic document; please suggest modifications to improve these gener
 
 ## Final stages
 1. Read and re-read and re-read your proposal. Try to visualize it from someone else's perspective
-2. Use the resources of the Writing Center! They have one-on-one help to polish written work
+2. Use the resources of the [Writing Center](https://writing.wisc.edu/)! They have one-on-one help to polish written work
 3. Show your project plan to many people to get feedback. It is good if you share your project plan with people outside your area of expertise
 4. Discuss the project plan with the PI
 5. Understand that the project plan is a mutable object that will be constantly evolving as you work on the project
@@ -30,9 +30,9 @@ _This is a dynamic document; please suggest modifications to improve these gener
 
 - The most common deliverable will be manuscripts. Keep in mind that you will be the first author of this manuscript, so make sure to consider this in the timeline. That is, the first author is responsible for:
     - Writing the manuscript
-    - Revising the manuscript and corresponding with the journal or publisher;
-    - Designing the project plan (often in collaboration with other members of the research team);
+    - Revising the manuscript and corresponding with the journal or publisher;]
+    - Designing the project plan (often in collaboration with other members of the research team)
     - Obtaining approval of all coauthors on the final draft, and
-    - Understanding the general principles of all work included in the manuscript.
+    - Understanding the general principles of **all the work** included in the manuscript.
 
 - Another common deliverable will be open-source software. Keep in mind that there is a huge gap between code that runs, and code that is suitable for publication and you should consider this in your timeline. Follow reproducibility practices and best computing practices (examples in [lab guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md)). Keep in mind that suboptimal code will not be deemed suitable for publication

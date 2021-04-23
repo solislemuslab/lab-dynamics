@@ -92,7 +92,7 @@ It is not enough to do "good science", we need to be good communicators of our s
     - have high-quality figures
     - have a science communication component to promote the work: graphical abstract, infographics (see [canva](https://www.canva.com/tools/infographic-maker-v1/)), or a 5-min lighting talk to post on the lab youtube channel
 
-#### Is my manuscript ready for publication checklist
-- Extensive literature search (cite everybody)
-- Graphical abstract and/or summary box
-- High quality figures (good choice of colors: color-blindness aware)
+#### Is my manuscript ready for publication? Checklist
+- Does it include an extensive literature search (cite everybody)?
+- Does it include a graphical abstract and/or summary box for easy reading?
+- Are the figures of high quality (good choice of colors: color-blindness aware)?
