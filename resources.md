@@ -96,6 +96,8 @@ A few examples below.
 - [Bias Watch Neuro](https://biaswatchneuro.com/about/)
 - [Whiteness in hiring committees](https://www.hepgjournals.org/doi/pdf/10.17763/1943-5045-87.4.557)
 - [Grace Hopper Celebration conference](https://ghc.anitab.org/about/our-history/)
+- [Rising Stars](https://eecs.berkeley.edu/rising-stars-2020): an academic career workshop for women in EECS
+
 
 ## Within UW-Madison
 - [WISELI](https://wiseli.wisc.edu/workshops/) Women in Science and Engineering Leadership Institute
