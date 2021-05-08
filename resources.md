@@ -84,6 +84,7 @@ A few examples below.
 - [Data Analysis in R](https://bookdown.org/steve_midway/DAR/) by Steve Midway
 - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) YouTube channel by Josh Starmer
 - [Julia for Data Science](https://www.juliafordatascience.com/) by Josh Day
+- [What they forgot to teach you about R](https://rstats.wtf/) by Jennifer Bryan
 
 # Diversity and inclusion in science
 
