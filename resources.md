@@ -98,6 +98,7 @@ A few examples below.
 - [Whiteness in hiring committees](https://www.hepgjournals.org/doi/pdf/10.17763/1943-5045-87.4.557)
 - [Grace Hopper Celebration conference](https://ghc.anitab.org/about/our-history/)
 - [Rising Stars](https://eecs.berkeley.edu/rising-stars-2020): an academic career workshop for women in EECS
+- [Project BioDiversify](https://projectbiodiversify.wpcomstaging.com/sex/): Tools for promoting diversity and inclusivity in biology classrooms
 
 
 ## Within UW-Madison
