@@ -54,7 +54,7 @@ A few examples below.
 - Quantitative Biology Initiative (QBI): info [here](https://qbi.wisc.edu/) and [training grants](https://qbi.wisc.edu/education/training-grants/)
 
 
-# Lab dynamics: working in teams
+# Lab dynamics
 
 - Assertiveness in [NIH training handout](https://www.training.nih.gov/assets/Assertiveness_Handout.pdf)
 - Thanks for the feedback [TedTalk youtube](https://www.youtube.com/watch?v=FQNbaKkYk_Q) by Sheila Heen
@@ -62,7 +62,7 @@ A few examples below.
 - Virtual NIH [activities](https://www.training.nih.gov/virtual_nih_activities_for_trainees_outside_the_nih)
 - 4 bad habits in managers in [Ideas TED](https://ideas.ted.com/do-you-have-any-of-these-4-bad-habits-of-managers-heres-how-to-change-them/amp/?__twitter_impression=true)
 - [EMBO lab leadership workshops](https://lab-management.embo.org/course-overview)
-
+- [Ultimate guide to productivity](https://blog.doist.com/personal-productivity-methods/)
 
 # Statistics
 
