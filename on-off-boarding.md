@@ -19,4 +19,4 @@ Steps before you leave the lab:
 3. Email Pat Pointer and Em Craft from WID to let them know that you will leave my lab so that she update your WID account (either remove it or change it to other lab). Please copy me in this email
 4. Fill out the offboarding form with your new contact information [here](https://forms.gle/Utj4pTHwMe456zyMA). This is so that I can reach out regarding our projects together (publications, extensions to our work, presentations,...)
 
-Note that you will keep access to your project slack workspace, but not to the lab slack workspace.
+Note that you will keep access to your project slack workspace, but not to the lab slack workspace which will be reserved for current lab members only.
