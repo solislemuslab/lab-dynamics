@@ -100,6 +100,7 @@ A few examples below.
 - [Grace Hopper Celebration conference](https://ghc.anitab.org/about/our-history/)
 - [Rising Stars](https://eecs.berkeley.edu/rising-stars-2020): an academic career workshop for women in EECS
 - [Project BioDiversify](https://projectbiodiversify.wpcomstaging.com/sex/): Tools for promoting diversity and inclusivity in biology classrooms
+- [The Underrepresentation Curriculum Project](https://underrep.com/): A flexible curriculum designed to help students critically examine scientific fields and take action for equity, inclusion and justice.
 
 
 ## Within UW-Madison
