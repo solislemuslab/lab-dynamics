@@ -90,7 +90,7 @@ It is not enough to do "good science", we need to be good communicators of our s
     - be accompanied by a github repo with the necessary reproducible scripts, textfiles, notes, ... to reproduce the analysis and simulations
     - be well-written, and that you have incorporated the feedback/suggestions from the co-authors
     - have high-quality figures
-    - have a science communication component to promote the work: graphical abstract, infographics (see [canva](https://www.canva.com/tools/infographic-maker-v1/)), or a 5-min lighting talk to post on the lab youtube channel
+    - have a science communication component to promote the work: graphical abstract (draw.io), infographics (see [canva](https://www.canva.com/tools/infographic-maker-v1/)), or a 5-min lighting talk to post on the lab youtube channel, or a [word cloud](https://www.wordclouds.com/)
 
 #### Is my manuscript ready for publication? Checklist
 - Does it include an extensive literature search (cite everybody)?
