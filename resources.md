@@ -12,6 +12,23 @@ There are many skills that we need to informally learn in academia: written and 
 - JSM 2020 [Panel on version control with git in stat cources](https://github.com/mdbeckman/JSM2020-Virtual)
 - [Intro to Computational thinking in Julia](https://computationalthinking.mit.edu/Spring21/) MIT class by Alan Edelman, David P. Sanders & Charles E. Leiserson
 
+## Learning to code?
+
+There are many free resources online to learn how to code for people of all ages and background (thanks to Cecile Ane for pointing at some of these resources!):
+
+- [Scratch](https://scratch.mit.edu/): free coding community
+- [Raspberry Pi](https://www.raspberrypi.org/)
+- [Microbit](https://microbit.org/)
+- Not learning resource, but coding environment: [CodePen](https://codepen.io/)
+- Learn to code with [CodeAcademy](https://www.codecademy.com/)
+- Bootcamps or code clubs:
+    - [Resilient Coders Bootcamp](http://resilientcoders.org/bootcamp)
+    - [BlackGirlsCode events](https://www.blackgirlscode.com/events/)
+
+- Learning Julia?
+    - Some links in my lab website [here](https://solislemuslab.github.io//pages/teaching.html)
+    - [YouTube intro talk](https://www.youtube.com/watch?v=8h8rQyEpiZA)
+
 # Peer-reviews and publishing (Sci comm)
 
 - [JEFworks guide to peer review](https://jef.works/blog/2020/03/23/a-guide-to-scientific-peer-review/)
