@@ -23,14 +23,14 @@ output:
 
 
 ### What is expected of you:
-- You will read and follow the lab guidelines: see [\underline{here}](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md)
-- You will follow the best computing practices (highlighted [\underline{here}](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)) on
+- You will read and follow the lab guidelines: see [here](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md)
+- You will follow the best computing practices (highlighted [here](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)) on
     - folder organization
     - file names
     - version control with git/Github
     - reproducibility
     - clear and well-commented code
-- You will write the project plan (see format [\underline{here}](https://github.com/solislemuslab/lab-dynamics/blob/master/project-plan.md)) for the project that we agree to work on together (described in a separate document) within ___ weeks of your arrival to the lab
+- You will write the project plan (see format [here](https://github.com/solislemuslab/lab-dynamics/blob/master/project-plan.md)) for the project that we agree to work on together (described in a separate document) within ___ weeks of your arrival to the lab
     - The project plan should be the first item to agree on as it will guide the whole project
     - We can discuss and revise this document together prior to the final version we will agree on
 - You will have the intellectual freedom to propose how the project(s) should be tackled and your strategy will be reflected in the project plan that we will both agree on
