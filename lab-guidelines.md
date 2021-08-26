@@ -62,6 +62,12 @@ _This is a dynamic document; feel free to suggest modifications to improve these
     - ask for help if you need it. **If you are feeling overwhelmed or stressed or don't know where to start, please reach out and I am happy to talk with you to find solutions**
     - note that if you are already reproducible and keep good notes by other means (not highlighted here), do continue that way! In fact, I am always eager to learn different ideas! **This document is not meant to force anyone to do one particular style of best computing and reproducibility practices.** Just keep in mind that whatever your style, we should discuss it and make sure that we are all on the same boat when it comes to expectations and outcomes
 
+### Does my code (simulations/data analysis/software) satisfy the lab computing practices? Checklist
+- Is all my code on the github repo, properly documented and commented?
+- Does the repo have an explicit readme describing the usage, citation, format of the repo and feedback/issues section?
+- Does the repo have a license, contributing guidelines and documentation?
+- If it is a new software tool, does it have a wiki or website tutorial?
+
 ## Clear scientific communication: manuscripts and presentations
 
 It is not enough to do "good science", we need to be good communicators of our science.
@@ -99,4 +105,16 @@ It is not enough to do "good science", we need to be good communicators of our s
 - Are the figures of high quality (good choice of colors: color-blindness aware)?
 - Are simulations and data analysis fully reproducible, easy to follow by others and pushed to a github repo?
 - Is it well-written and following the rules of concise scientific writing?
-- Is it submitted to arxiv or biorxiv?
+- Is it submitted to arxiv or biorxiv? 
+
+#### My paper is published, now what?
+In recent years, it has becoming increasingly important to advertise broadly our work and invest heavily on good science communication strategies:
+- tweet the paper alongside 
+    - an image of the graphical abstract or an infographics (see [canva](https://www.canva.com/tools/infographic-maker-v1/)) or a [word cloud](https://www.wordclouds.com/)
+    - a 1-min lightning talk to advertise the paper
+- create a 5-min lighting talk to post on the [lab youtube channel](https://www.youtube.com/channel/UCcBcmxIYYGC6Z04p9SC7hwg/featured)
+- include the paper in the lab website (alongside links to the lightning talk and images of the graphical abstract/infographic/word cloud)
+- email the paper to collaborators
+- do presentations in conferences and symposia
+- if the published paper is for a software tool, create a video tutorial and a wiki documentation
+
