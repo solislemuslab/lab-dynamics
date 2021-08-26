@@ -1,11 +1,12 @@
 # Onboarding steps
 
-1. Read the [lab guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md)
-2. Read the [computing and reproducibility practices](https://github.com/crsl4/mindful-programming/blob/master/lecture.md) and links therein
-3. Read and sign the [authorship guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/authorship.md)
-4. If you are an undergraduate student, fill out [this collaboration agreement](https://forms.gle/8B8c1hcMUr5tXZeW7)
-5. Add yourself to the [lab website](https://solislemuslab.github.io//pages/people.html) via a pull request. Not sure how to do this? Perfect time to study more about git and github. Some resources [here](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
+1. Read the [lab guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md) and the [computing and reproducibility practices](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
+2. Fill out the [lab info form](https://forms.gle/E9tuHPuvWc4cHaNa6)
+3. If you are an undergraduate student, fill out [this collaboration agreement](https://forms.gle/8B8c1hcMUr5tXZeW7)
+4. Add yourself to the [lab website](https://solislemuslab.github.io//pages/people.html) via a pull request. Not sure how to do this? Perfect time to study more about git and github. Some resources [here](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
+5. Read and sign the [authorship guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/authorship.md)
 6. If you are a grad student or postdoc, start thinking about your [project plan](https://github.com/solislemuslab/lab-dynamics/blob/master/project-plan.md)
+
 
 
 # Offboarding steps
