@@ -22,7 +22,7 @@ Advantages of joining the lab:
 - Co-authorship on publications produced in the lab with your contribution (read the [authorship guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/authorship.md))
 - Network with other students in the lab and in WID
 - Strong commitment to mentoring by me and other senior students in the lab
-- Support with grad school/job applications as well as carefully written letters of recommendation highlighting your strengths in research
+- Support with grad school/job applications as well as carefully written honest letters of recommendation highlighting your strengths in research
 
 ### Am I a good fit for the lab?
 
@@ -48,8 +48,6 @@ Timeline varies depending on the nature of the project, but this example can ser
 - Fall/Spring junior year (2 semesters): work on the project
 - Summer before senior year: usually students do internships, so no work in the lab, but students could be involved in short-term projects if they choose to
 - Fall senior year (1 semester): write paper for publication or deploy software. Deadline of December 1 so that the new product (paper/software) can be included in grad school or job application
-
-
 
 ### After reading this document, I am still interested in joining the lab!
 

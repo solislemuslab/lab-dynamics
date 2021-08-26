@@ -41,6 +41,8 @@ There are many free resources online to learn how to code for people of all ages
 - [Ten rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) by Rougier et al
 - [Ten rules to colorize](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259) by Hattab et al
 - [Publishing papers while keeping everything in balance](https://ojs.library.queensu.ca/index.php/IEE/article/view/9045) by Scott Hotaling
+- [BioRender](https://biorender.com/) for professional figures
+- [Writing rejections](https://cloudistro.com/5-reasons-you-should-aim-for-100-literary-rejection-letters-in-2021/). Blog on why to set a goal to get 100 literary rejection letters this year (written for writers but applies to all).
 
 # Getting funding
 
