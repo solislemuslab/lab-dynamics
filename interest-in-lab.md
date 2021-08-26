@@ -45,8 +45,8 @@ Advantages of joining the lab:
 
 Timeline varies depending on the nature of the project, but this example can serve to illustrate the different stages:
 - Summer before junior year (2-3 months): learn about the project and necessary background knowledge, learn good computing practices and git/github through the terminal, trial period on existing project
-- Fall/Spring junior year (2 semesters): work on the project
-- Summer before senior year: usually students do internships, so no work in the lab, but students could be involved in short-term projects if they choose to
+- Fall/Spring junior year (2 semesters): work on your project as independent research or as part of a team of students
+- Summer before senior year: usually students do internships, so no work in the lab, but students could be involved in short-term projects if they choose to or continue working on their projects
 - Fall senior year (1 semester): write paper for publication or deploy software. Deadline of December 1 so that the new product (paper/software) can be included in grad school or job application
 
 ### After reading this document, I am still interested in joining the lab!
@@ -66,6 +66,7 @@ After our meeting, we will both decide if you are a good fit for the lab and the
 4. Discuss practical issues:
     - Do you need to get paid for your research? Or would getting course credit be enough?
     - How many hours a week do you want to work on a research project with me?
+    - When do you want to start?
 
 
 
