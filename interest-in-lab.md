@@ -162,7 +162,7 @@ Send me an email (subject "Postdoc application") with:
 - meeting times for the following two weeks
 
 
-# Do you have your own independent research ideas as a postdoc and you want to apply to your own funding with me as a supervisor? <a name="postdocfunds"></a>
+## Do you have your own independent research ideas as a postdoc and you want to apply to your own funding with me as a supervisor? <a name="postdocfunds"></a>
 
 First of all, great idea pursuing your own sources of funding! Not only gives you the flexibility to work on the project you love, but it also builds a stronger CV with evidence of external funding.
 
