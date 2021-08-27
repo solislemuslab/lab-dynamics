@@ -1,6 +1,6 @@
 # Onboarding steps
 
-1. Read the [lab guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md) and the [computing and reproducibility practices](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
+1. Read the [lab guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/lab-guidelines.md) and the [computing and reproducibility practices](https://github.com/crsl4/mindful-programming/blob/master/lecture.md). For the computing practices, you can start by watching this [YouTube video](https://youtu.be/7KCqpL0cde8)
 2. Fill out the [lab info form](https://forms.gle/E9tuHPuvWc4cHaNa6)
 3. If you are an undergraduate student, fill out [this collaboration agreement](https://forms.gle/8B8c1hcMUr5tXZeW7)
 4. Do you feel confident with git? Fill out this [self-assessment quiz](https://forms.gle/3VR7PRtEkiGtCJoFA). If it is too hard, check out some resources [here](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
