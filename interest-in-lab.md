@@ -52,7 +52,7 @@ Advantages of joining the lab:
 ### Expected timeline when you join the lab
 
 Timeline varies depending on the nature of the project, but this example can serve to illustrate the different stages:
-- Summer before junior year (2-3 months): learn about the project and necessary background knowledge, learn good computing practices and git/github through the terminal, trial period on existing project
+- Summer before junior year (2-3 months): learn about your project and necessary background knowledge, learn good computing practices and git/github through the terminal, trial period on existing project
 - Fall/Spring junior year (2 semesters): work on your project as independent research or as part of a team of students
 - Summer before senior year: usually students do internships, so no work in the lab, but students could be involved in short-term projects if they choose to or continue working on their projects
 - Fall senior year (1 semester): write paper for publication or deploy software. Deadline of December 1 so that the new product (paper/software) can be included in grad school or job application
@@ -65,16 +65,6 @@ Great! Follow the next steps:
 2. Email me your CV and transcript with the subject "Data Science Undergrad Research". Write down in the email that you have read this document and filled out the collaboration agreement form. Include in the email meeting times that would work for you for the following two weeks.
 
 After you send the email, we will schedule a meeting to chat. Expect to answer questions about yourself (major, year, research interests) as well as about programming skills and knowledge of git and computing practices. It will not be an exam, but I will be curious to know your experience. During this meeting, I will also highlight existing projects in the lab to assess if they would be interesting to you.
-
-
-After our meeting, we will both decide if you are a good fit for the lab and the lab is a good fit for you. The final steps to join the lab are:
-1. Complete the [onboarding steps](https://github.com/solislemuslab/lab-dynamics/blob/master/on-off-boarding.md)
-2. Choose a current project in the lab (current papers/software), read all about it and think of ways in which the work can be extended. This is to determine your project for the trial period.
-3. Complete the github learning assessment
-4. Discuss practical issues:
-    - Do you need to get paid for your research? Or would getting course credit be enough?
-    - How many hours a week do you want to work on a research project with me?
-    - When do you want to start?
 
 
 ## Do you want to apply to graduate school at UW-Madison in my lab? <a name="apply"></a>
