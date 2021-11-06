@@ -19,7 +19,7 @@
     - [Zhang2017](https://academic.oup.com/mbe/article/35/2/504/4705834)
 
 6. Understanding identifiability of networks:
-    - from pseudolikelihood perspective: [SolisLemus2016](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896)
+    - from pseudolikelihood perspective: [SolisLemus2016](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896), [SolisLemus2020](https://arxiv.org/abs/2010.01758)
     - from likelihood perspective: [Zhu2017](https://academic.oup.com/sysbio/article/66/2/283/2682287)
     - from displayed trees (not coalescent-based): [Pardi2015](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004135)
 
@@ -42,3 +42,4 @@
     - [HybridSim (java)](https://academic.oup.com/gbe/article/8/5/1299/2939560). [Github](https://github.com/MichaelWoodhams/HybridSim)
     - [NetGen (C)](https://academic.oup.com/bioinformatics/article/22/15/1921/242472)
     - [Birth-Hybridization (BEAST2)](https://academic.oup.com/mbe/article/35/2/504/4705834)
+    - [SiPhyNetwork](https://github.com/jjustison/SiPhyNetwork)
