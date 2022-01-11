@@ -49,6 +49,8 @@ There are many free resources online to learn how to code for people of all ages
 Showing that you are able to acquire your own funding is very important in the academic landscape. Even if you are fully funded by your department or PI, consider applying to a scholarship or fellowship to learn valuable grant writing skills and improving your CV.
 A few examples below.
 
+- [Advice on grant writing](https://threadreaderapp.com/thread/1478838265763418112.html) by Betty Lai
+
 ## Undergraduate and Graduate
 
 - List of scholarships and fellowships that do not require US citizenship in [ImmigrantsRising](https://immigrantsrising.org/2020scholarships/)
