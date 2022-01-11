@@ -26,6 +26,7 @@
 7. Review papers on phylogenetic networks:
     - [Degnan2018](https://academic.oup.com/sysbio/article/67/5/786/5017269)
     - [Blair2019](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz056/5552158)
+    - [Kong2021](https://arxiv.org/abs/2109.10251)
 
 8. Moves in network space: [Gambette2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005611)
 
