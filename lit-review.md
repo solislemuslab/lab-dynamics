@@ -1,6 +1,7 @@
 # Learning phylogenetic networks
 
 0. Introduction to phylogenetics
+    - [Evolution 101](https://threadreaderapp.com/thread/1477332222206423041.html)
     - Phylogenetics 101 youtube videos by Paul Lewis [Part 1](https://www.youtube.com/watch?v=1r4z0YJq580). Other parts 2,3,4 are also good to check out
     - [Phylogenomics book](https://hal.inria.fr/PGE/page/table-of-contents)
 

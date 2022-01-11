@@ -43,6 +43,7 @@ There are many free resources online to learn how to code for people of all ages
 - [Publishing papers while keeping everything in balance](https://ojs.library.queensu.ca/index.php/IEE/article/view/9045) by Scott Hotaling
 - [BioRender](https://biorender.com/) for professional figures
 - [Writing rejections](https://cloudistro.com/5-reasons-you-should-aim-for-100-literary-rejection-letters-in-2021/). Blog on why to set a goal to get 100 literary rejection letters this year (written for writers but applies to all).
+- [ggplot2 guide](https://evamaerey.github.io/ggplot2_grammar_guide/about) by Gina Reynolds and [the evolution of ggplot2](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) by Cedric Scherer
 
 # Getting funding
 
@@ -68,6 +69,8 @@ A few examples below.
 
 - [Marie Curie Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) (for postdocs; no need of US-citizenship)
 
+- [List of postdoc fellowships](https://docs.google.com/spreadsheets/u/1/d/1J2M_tQgoqV4ivpfEClh9qs9f2KQN2O1G3Jpda2aoHfQ/htmlview)
+
 
 ## Within UW-Madison
 - Graduate School funding [options](https://grad.wisc.edu/funding/)
@@ -84,12 +87,16 @@ A few examples below.
 - 4 bad habits in managers in [Ideas TED](https://ideas.ted.com/do-you-have-any-of-these-4-bad-habits-of-managers-heres-how-to-change-them/amp/?__twitter_impression=true)
 - [EMBO lab leadership workshops](https://lab-management.embo.org/course-overview)
 - [Ultimate guide to productivity](https://blog.doist.com/personal-productivity-methods/)
+- [Colautti lab standards](https://colauttilab.github.io/Manifesto/index.html#Colautti_Lab_Standards)
+- [Lindsey lab expectations](https://lindseylab.files.wordpress.com/2020/06/lindsey_lab_expectations_20200616.pdf)
+- [Fancy publication figures](https://github.com/alperezq/FancyPubFigures)
 
 # Statistics
 
 - The history of statistics: Github [repo](https://github.com/sctyner/history_of_statistics) by Sam Tyner
 - [Statistical Rethinking in Julia](https://github.com/StatisticalRethinkingJulia/StatisticalRethinking.jl) by Richard McElreath
 - [Statistical Rethinking in R](https://bookdown.org/content/4857/) by A Solomon Kurz
+- [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2020) course materials by Richard McElreath
 - [Modern Statistics for Biology](https://www.huber.embl.de/msmb/introduction.html) by Susan Holmes and Wolfgang Huber
 - [Calling Bullsh*t](https://callingbullshit.org/index.html): Data reasoning in a digital world by Carl Bergstrom and Jevin West
 - [The role of p-values](https://www.tandfonline.com/doi/full/10.1080/19466315.2020.1724560) by Eric Gibson
@@ -104,9 +111,17 @@ A few examples below.
 - [Summer Institutes: SISMID 2021](https://si.biostat.washington.edu/suminst/sismid2021/modules)
 - [Data Analysis in R](https://bookdown.org/steve_midway/DAR/) by Steve Midway
 - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) YouTube channel by Josh Starmer
-- [Julia for Data Science](https://www.juliafordatascience.com/) by Josh Day
+- [Julia for Data Science](https://www.juliafordatascience.com/) by Josh Day and [book](https://juliadatascience.io/) by Storopoli, Huijzer and Alonso
 - [What they forgot to teach you about R](https://rstats.wtf/) by Jennifer Bryan
 - [Neural networks intro](https://cs231n.github.io/convolutional-networks/)
+- [Stats Camp](https://www.statscamp.org/)
+- [Data Organization](https://kbroman.org/dataorg/) by Karl Broman
+- [Bayesian data analysis course](https://avehtari.github.io/BDA_course_Aalto/gsu2021.html) by Aki Vehtari
+- [CSV community conference for data makers everywhere](https://csvconf.com/speakers/)
+- [Bayesian Learning Course](https://github.com/mattiasvillani/BayesLearnCourse) by Mattias Vilani
+- [Blog about SVD decomposition](https://www.govindgnair.com/post/svd-is-almost-all-you-need/)
+- [Bayesian statistics in R](https://oliviergimenez.github.io/bayesian-stats-with-R/) by Olivier Gimenez
+- [Democratizing Artificial Intelligence Research, Education, and Technologies](https://dair.ai/)
 
 # Diversity and inclusion in science
 
