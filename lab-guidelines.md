@@ -1,3 +1,13 @@
+# Code of Conduct
+
+Shamelessly copied from [The Carpentries CoC](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html):
+
+- Use welcoming and inclusive language
+- Be respectful of different viewpoints and experiences
+- Gracefully accept constructive criticism
+- Focus on what is best for the community
+- Show courtesy and respect towards other community members
+
 # Solis-Lemus lab guidelines
 Based on (shamelessly copied from) "Guidelines for Research in the Baum lab" by David Baum.
 _This is a dynamic document; feel free to suggest modifications to improve these general guidelines._
