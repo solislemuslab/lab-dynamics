@@ -81,7 +81,7 @@ Note that admission to the programs is done by committees, not by individual fac
 
 If you are a biology-oriented student, you need to have an interest in computational biology or bioinformatics to join the lab. Students doing a bio-oriented PhD can complement their training in statistics and data science with:
 - [MS in Statistics](https://stat.wisc.edu/graduate-studies/ms-program/)
-- [MS in Data Science](https://stat.wisc.edu/graduate-studies/data-science-option/)
+- MS in Applied Stat (upcoming Fall 2022)
 - [MS in Biometry](https://stat.wisc.edu/graduate-studies/biometry/)
 - [Minor in Quantitative Biology](https://qbi.wisc.edu/)
 
