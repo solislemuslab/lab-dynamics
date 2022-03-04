@@ -154,6 +154,7 @@ A few examples below.
 - [STAMPS2019](https://github.com/mblstamps/stamps2019/wiki)
 - [History of metagenomics](http://merenlab.org/2020/07/27/history-of-metagenomics/) by Matthew Schechter
 - [Microbial Omics for beginners](https://www.youtube.com/playlist?list=PL7133RHfhW-MwCLz-c2DZxAmtoHipqBcL) by the Meren Lab
+- [Omics vocabulary](https://anvio.org/vocabulary/) by Eren lab.
 
 # Networking
 - [Tutorial for github website](https://kbroman.org/simple_site/) by Karl Broman
