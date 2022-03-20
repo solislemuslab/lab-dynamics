@@ -28,6 +28,7 @@
     - [Degnan2018](https://academic.oup.com/sysbio/article/67/5/786/5017269)
     - [Blair2019](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz056/5552158)
     - [Kong2021](https://arxiv.org/abs/2109.10251)
+    - [Elworth2019](https://link.springer.com/chapter/10.1007/978-3-030-10837-3_13)
 
 8. Moves in network space: [Gambette2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005611)
 
@@ -35,10 +36,7 @@
     - [Tutorial](https://github.com/crsl4/PhyloNetworks.jl/wiki)
     - [SolisLemus2017](https://academic.oup.com/mbe/article/34/12/3292/4103410?guestAccessKey=1d2c94f2-f064-42ae-a652-ce14cd095442)
 
-9. Other helpful software
-    - [TREEasy](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13149?af=R) to infer gene trees, species trees/networks from multilocus data
-
-10. Simulators
+9. Network simulators
     - [Zombi (python)](https://academic.oup.com/bioinformatics/article/36/4/1286/5578480)
     - [ipcoal (python)](https://www.biorxiv.org/content/10.1101/2020.01.15.908236v1)
     - [HybridSim (java)](https://academic.oup.com/gbe/article/8/5/1299/2939560). [Github](https://github.com/MichaelWoodhams/HybridSim)
