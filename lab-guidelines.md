@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Shamelessly copied from [The Carpentries CoC](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html):
+From [The Carpentries CoC](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html):
 
 - Use welcoming and inclusive language
 - Be respectful of different viewpoints and experiences
@@ -44,7 +44,7 @@ _This is a dynamic document; feel free to suggest modifications to improve these
     - **Help other students with their projects and provide informal mentorship.** This is a valuable experience! If you want to add other individuals as authors to your papers, please discuss this with me early on and before discussing the situation with these potential co-authors.
 
 
-# What you can expect from me:
+## What you can expect from me:
 - **I will work tirelessly for the good of the lab group**; the success of every member of our group is my top priority. I will be transparent about the lab’s financial situation and honest about the amount of further funding that I can provide.
 - I will be available for regular meetings and informal conversations. At our scheduled one-on-one meetings (ideally every week or every two weeks), we will address questions or concerns that you have. If you need to miss a meeting, it is your responsibility to reschedule; I will show you the same courtesy. Slack is the best way to communicate with me. I do not always respond on weekends as I spent this time with my family. If my office door is open, feel free to stop by.
 - I will involve you in the process of writing grant proposals, from the original ideas through submission. The goal of this is to help expose you to this important aspect of science and help you contribute to my efforts to fund your work and the lab in general.
@@ -60,7 +60,7 @@ _This is a dynamic document; feel free to suggest modifications to improve these
 - I will strive to be supportive, equitable, accessible, encouraging, and respectful. I will try my best to understand your unique situation. I am mindful that we all come from a different backgrounds and have different circumstance. It will help if you keep me informed about your experiences and remember that academic research is a job with very high expectations. I view my role as fostering your professional confidence and encouraging your critical thinking, skepticism, and creativity. **If my attempts to do this are not effective for you, I am open to talking with you about other ways to achieve these goals.**
 
 
-# Guidelines for manuscripts and code <a name="mscode"></a>
+# Guidelines for manuscripts, presentations, and code <a name="mscode"></a>
 
 ## Best computing practices for code
 
@@ -107,7 +107,7 @@ It is not enough to do "good science", we need to be good communicators of our s
     - be accompanied by a github repo with the necessary reproducible scripts, textfiles, notes, ... to reproduce the analysis and simulations
     - be well-written, and that you have incorporated the feedback/suggestions from the co-authors
     - have high-quality figures
-    - have a science communication component to promote the work: graphical abstract (draw.io), infographics (see [canva](https://www.canva.com/tools/infographic-maker-v1/)), or a 5-min lighting talk to post on the lab youtube channel, or a [word cloud](https://www.wordclouds.com/)
+    - have a graphical abstract, if suitable
 
 #### Is my manuscript ready for submission to journal? Checklist
 - Does it include an extensive literature search (cite everybody)?
@@ -118,13 +118,37 @@ It is not enough to do "good science", we need to be good communicators of our s
 - Is it submitted to arxiv or biorxiv? 
 
 #### My paper is published, now what?
-In recent years, it has becoming increasingly important to advertise broadly our work and invest heavily on good science communication strategies:
+In recent years, it has becoming increasingly important to advertise broadly our work and invest heavily on good science communication strategies. We will
 - tweet the paper alongside 
     - an image of the graphical abstract or an infographics (see [canva](https://www.canva.com/tools/infographic-maker-v1/)) or a [word cloud](https://www.wordclouds.com/)
     - a 1-min lightning talk to advertise the paper
 - create a 5-min lighting talk to post on the [lab youtube channel](https://www.youtube.com/channel/UCcBcmxIYYGC6Z04p9SC7hwg/featured)
 - include the paper in the lab website (alongside links to the lightning talk and images of the graphical abstract/infographic/word cloud)
 - email the paper to collaborators
-- do presentations in conferences and symposia
+- do presentations in conferences and symposia ([more info](#talks))
 - if the published paper is for a software tool, create a video tutorial and a wiki documentation
+
+### Talks/posters in conferences and symposia <a name="talks"></a>
+
+All abstracts, posters, and talks that you work on in the lab are representations of the lab and must be approved by me before submission.
+
+#### Is my talk/poster ready for presenting? Checklist
+- Have you presented in lab meeting to get feedback from others?
+- Have you shared your slides/poster with me or others in the lab to check for errors/typos?
+- Have you timed yourself to make sure you adhere to the presentation guidelines?
+- Have you included an Acknowledgement slide at the end to acknowledge the lab, other collaborators and sources of funding?
+- Do you include QR codes or links to your paper/software?
+- Are you giving proper citation to others' work in your slides/poster?
+
+#### Travel logistics for conferences
+
+Please discuss with me any plans of conferences to make sure that we have the necessary funding.
+
+Steps for conference attendance:
+1. Write the abstract and send to me for approval before submitting it. Please give the abstract to me at least 2 weeks prior to the abstract submission deadline
+2. Upon receipt, please forward the acceptance email to the conference to me
+3. You can register to the conference on your end and get reimbursed, or if it is too expensive, we can cover the cost directly at WID.
+4. Do not book flights or make hotel reservations before reading the [travel rules](https://widkipedia.wid.wisc.edu/travel-reimbursement/)! You should always email Janine Harrison and Becky Streich to help with the travel plans.
+
+
 
