@@ -43,3 +43,11 @@
     - [NetGen (C)](https://academic.oup.com/bioinformatics/article/22/15/1921/242472)
     - [Birth-Hybridization (BEAST2)](https://academic.oup.com/mbe/article/35/2/504/4705834)
     - [SiPhyNetwork](https://github.com/jjustison/SiPhyNetwork)
+
+
+# Deep learning in biology
+
+- [Ten quick tips for deep learning in biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009803)
+- [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z)
+- [Navigating the pitfalls of applying machine learning in genomics](https://www.nature.com/articles/s41576-021-00434-9)
+- [Deep learning as a tool for ecology and evolution](https://ecoevorxiv.org/nt3as/)
