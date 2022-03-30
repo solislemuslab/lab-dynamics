@@ -136,7 +136,7 @@ All abstracts, posters, and talks that you work on in the lab are representation
 - Have you presented in lab meeting to get feedback from others?
 - Have you shared your slides/poster with me or others in the lab to check for errors/typos?
 - Have you timed yourself to make sure you adhere to the presentation guidelines?
-- Have you included an Acknowledgement slide at the end to acknowledge the lab, other collaborators and sources of funding?
+- Have you included an Acknowledgement slide at the end to acknowledge the lab, other collaborators and sources of funding (you can use [the template](https://docs.google.com/presentation/d/1E4vFh4RDh-xHzRRSe1krvt6vrzzBZHQs4jQMrxOzWgQ/edit?usp=sharing))?
 - Do you include QR codes or links to your paper/software?
 - Are you giving proper citation to others' work in your slides/poster?
 
