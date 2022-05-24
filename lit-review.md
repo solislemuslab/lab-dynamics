@@ -51,3 +51,4 @@
 - [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z)
 - [Navigating the pitfalls of applying machine learning in genomics](https://www.nature.com/articles/s41576-021-00434-9)
 - [Deep learning as a tool for ecology and evolution](https://ecoevorxiv.org/nt3as/)
+- [Current progress and open challenges for applying deep learning across the biosciences](https://www.nature.com/articles/s41467-022-29268-7)
