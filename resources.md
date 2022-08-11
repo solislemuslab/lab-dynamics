@@ -122,6 +122,7 @@ A few examples below.
 - [Blog about SVD decomposition](https://www.govindgnair.com/post/svd-is-almost-all-you-need/)
 - [Bayesian statistics in R](https://oliviergimenez.github.io/bayesian-stats-with-R/) by Olivier Gimenez
 - [Democratizing Artificial Intelligence Research, Education, and Technologies](https://dair.ai/)
+- [Bayesian Optimization book](https://bayesoptbook.com/) by Roman Garnett
 
 # Diversity and inclusion in science
 
