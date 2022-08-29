@@ -58,6 +58,13 @@ A few examples below.
 
 - NSF Graduate Research Fellowship [GRFP](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201)
 
+## NSF GRFP
+
+- [Examples in evolutionary biology](https://github.com/ybrandvain/GRFP) by Yaniv Brandvain
+- [Advice](https://clairemckaybowen.com/fellowship/) by Claire McKay Bowen
+- [Advice](http://www.malloryladd.com/nsf-grfp-advice.html) by Mallory P. Ladd
+- [Advice](https://www.alexhunterlang.com/nsf-fellowship) by Alex Lang
+
 ## Postdoc
 
 - NIH K99/R00 Path to Independence [award](https://researchtraining.nih.gov/programs/career-development/k99-r00) (for postdocs; no need of US-citizenship)
