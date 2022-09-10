@@ -150,6 +150,7 @@ A few examples below.
 - [Project BioDiversify](https://projectbiodiversify.wpcomstaging.com/sex/): Tools for promoting diversity and inclusivity in biology classrooms
 - [The Underrepresentation Curriculum Project](https://underrep.com/): A flexible curriculum designed to help students critically examine scientific fields and take action for equity, inclusion and justice
 - [Latino Youth Summit](https://precollege.wisc.edu/latino-youth-summit/) at UW-Madison
+- [Gender equality in academia report](https://research.pasteur.fr/wp-content/uploads/2021/04/research_pasteur-jobim-2021-pilotproject-genderspeakingdifferencesin-academia-gender-equal-and-.pdf) Junhanlu ZHANG, Rachel TORCHET & Hanna JULIENNE and accompanying [paper](https://www.biorxiv.org/content/10.1101/2022.03.07.483337v2)
 
 
 ## Within UW-Madison
