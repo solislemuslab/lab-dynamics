@@ -101,6 +101,7 @@ A few examples below.
 - [Fancy publication figures](https://github.com/alperezq/FancyPubFigures)
 - [Untools](https://untools.co/) for productivity, communication and problem solving
 - [12ft ladder](https://12ft.io/) for paywalls
+- [PhD voices](https://phdvoice.org/free-resources/)
 
 # Statistics
 
