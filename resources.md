@@ -43,6 +43,7 @@ There are many free resources online to learn how to code for people of all ages
 - [Publishing papers while keeping everything in balance](https://ojs.library.queensu.ca/index.php/IEE/article/view/9045) by Scott Hotaling
 - [BioRender](https://biorender.com/) for professional figures
 - [Unsplash](https://unsplash.com/) for high resolution photos
+- [The noun project](https://thenounproject.com/) for icons and photos
 - [Writing rejections](https://cloudistro.com/5-reasons-you-should-aim-for-100-literary-rejection-letters-in-2021/). Blog on why to set a goal to get 100 literary rejection letters this year (written for writers but applies to all).
 - [ggplot2 guide](https://evamaerey.github.io/ggplot2_grammar_guide/about) by Gina Reynolds and [the evolution of ggplot2](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) by Cedric Scherer
 
