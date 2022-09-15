@@ -24,6 +24,7 @@ There are many free resources online to learn how to code for people of all ages
 - Bootcamps or code clubs:
     - [Resilient Coders Bootcamp](http://resilientcoders.org/bootcamp)
     - [BlackGirlsCode events](https://www.blackgirlscode.com/events/)
+- [Basics of C++](https://hsf-training.github.io/hsf-training-cpp-webpage/)
 
 - Learning Julia?
     - Some links in my lab website [here](https://solislemuslab.github.io//pages/teaching.html)
@@ -108,6 +109,7 @@ A few examples below.
 - The history of statistics: Github [repo](https://github.com/sctyner/history_of_statistics) by Sam Tyner
 - [Statistical Rethinking in Julia](https://github.com/StatisticalRethinkingJulia/StatisticalRethinking.jl) by Richard McElreath
 - [Statistical Rethinking in R](https://bookdown.org/content/4857/) by A Solomon Kurz
+- [Statistical Rethinking in Julia](https://shmuma.github.io/rethinking-2ed-julia/)
 - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2020) course materials by Richard McElreath
 - [Modern Statistics for Biology](https://www.huber.embl.de/msmb/introduction.html) by Susan Holmes and Wolfgang Huber
 - [Calling Bullsh*t](https://callingbullshit.org/index.html): Data reasoning in a digital world by Carl Bergstrom and Jevin West
