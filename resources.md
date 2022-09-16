@@ -104,6 +104,7 @@ A few examples below.
 - [Untools](https://untools.co/) for productivity, communication and problem solving
 - [12ft ladder](https://12ft.io/) for paywalls
 - [PhD voices](https://phdvoice.org/free-resources/)
+- [Academic secret menu](https://docs.google.com/document/d/1Cl_u8Qq4DD6ROKH4SNThxyLF7UWTWuWKEaVhrKCJqOw/edit?usp=sharing)
 
 # Statistics
 
