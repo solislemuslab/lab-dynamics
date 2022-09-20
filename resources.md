@@ -139,6 +139,7 @@ A few examples below.
 - [Bayesian statistics in R](https://oliviergimenez.github.io/bayesian-stats-with-R/) by Olivier Gimenez
 - [Democratizing Artificial Intelligence Research, Education, and Technologies](https://dair.ai/)
 - [Bayesian Optimization book](https://bayesoptbook.com/) by Roman Garnett
+- [Machine learning for biologists](https://carpentries-incubator.github.io/ml4bio-workshop/) by the Gitter lab
 
 # Diversity and inclusion in science
 
