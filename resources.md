@@ -11,6 +11,7 @@ There are many skills that we need to informally learn in academia: written and 
 - [Data organization in spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989) by Karl Broman and Kara Woo
 - JSM 2020 [Panel on version control with git in stat cources](https://github.com/mdbeckman/JSM2020-Virtual)
 - [Intro to Computational thinking in Julia](https://computationalthinking.mit.edu/Spring21/) MIT class by Alan Edelman, David P. Sanders & Charles E. Leiserson
+- [Reproducible and Trustworthy Workflows for Data Science](https://ubc-dsci.github.io/reproducible-and-trustworthy-workflows-for-data-science/README.html) by Tiffany A. Timbers, Joel Ostblom, Florencia D’Andrea, Rodolfo Lourenzutti
 
 ## Learning to code?
 
@@ -140,6 +141,7 @@ A few examples below.
 - [Democratizing Artificial Intelligence Research, Education, and Technologies](https://dair.ai/)
 - [Bayesian Optimization book](https://bayesoptbook.com/) by Roman Garnett
 - [Machine learning for biologists](https://carpentries-incubator.github.io/ml4bio-workshop/) by the Gitter lab
+- [Matrix calculus](http://www.matrixcalculus.org/)
 
 # Diversity and inclusion in science
 
