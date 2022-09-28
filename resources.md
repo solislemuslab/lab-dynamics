@@ -106,6 +106,7 @@ A few examples below.
 - [12ft ladder](https://12ft.io/) for paywalls
 - [PhD voices](https://phdvoice.org/free-resources/)
 - [Academic secret menu](https://docs.google.com/document/d/1Cl_u8Qq4DD6ROKH4SNThxyLF7UWTWuWKEaVhrKCJqOw/edit?usp=sharing)
+- [Meeting planner](https://www.timeanddate.com/worldclock/meeting.html)
 
 # Statistics
 
