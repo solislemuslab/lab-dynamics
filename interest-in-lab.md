@@ -74,6 +74,7 @@ Research is highly multi-disciplinary! So, I welcome graduate students intereste
 - **PhD in Plant Pathology: Application deadline December 1** (email me regarding Spring admission). Application info [here](https://plantpath.wisc.edu/application-process/).
 - **PhD in Statistics: Application deadline December 1** (no admissions in Spring). Application info [here](https://stat.wisc.edu/graduate-studies/phd-program/)
 - **PhD in Mathematics: Application deadline December 15** (no admissions in Spring). Application info [here](https://www.math.wisc.edu/node/11)
+- **PhD in Biomedical Data Science: Application deadline December 15** (no admissions in Spring). Application info [here](https://biostat.wiscweb.wisc.edu/education/prospective-students/)
 
 Even though my research is purely computational (dry lab), I am happy to co-advise students interested in empirical research, together with [another professor in the department](https://plantpath.wisc.edu/faculty-3/).
 
