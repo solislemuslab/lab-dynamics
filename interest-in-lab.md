@@ -101,6 +101,7 @@ Next steps for you:
     - Statistics
     - Mathematics
     - Plant Pathology
+    - Biomedical Data Science
 - Research in the lab is highly interdisciplinary, so students from different fields are welcome as all projects can be tailored to mathematical or statistical theory, computational implementations, machine learning, or biological applications
 - Advantages of joining the lab:
     - Participate in state-of-the-art research as the leader of a project
