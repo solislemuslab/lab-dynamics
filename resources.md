@@ -181,3 +181,8 @@ A few examples below.
 # Networking
 - [Tutorial for github website](https://kbroman.org/simple_site/) by Karl Broman
 - [Academic github website](https://github.com/academicpages/academicpages.github.io)
+
+# Mastodon
+- What is Mastodon? https://tilvids.com/w/hRzMpJwSkqEK3ZTNPbSuqu
+- Guide to Mastodon: https://fedi.tips/
+- Find Twitter people in Mastodon: https://fedifinder.glitch.me/
