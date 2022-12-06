@@ -30,6 +30,8 @@ There are many free resources online to learn how to code for people of all ages
 - Learning Julia?
     - Some links in my lab website [here](https://solislemuslab.github.io//pages/teaching.html)
     - [YouTube intro talk](https://www.youtube.com/watch?v=8h8rQyEpiZA)
+    - [Numerical Linear Algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/) by Nick Higham
+    - [The Big six matrix factorizations](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/) by Nick Higham
 
 # Peer-reviews and publishing (Sci comm)
 
