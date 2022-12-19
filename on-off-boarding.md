@@ -4,7 +4,7 @@
 2. Fill out the [lab info form](https://forms.gle/E9tuHPuvWc4cHaNa6)
 3. If you are an undergraduate student, fill out [this collaboration agreement](https://forms.gle/8B8c1hcMUr5tXZeW7)
 4. Do you feel confident with git? Fill out this [self-assessment quiz](https://forms.gle/3VR7PRtEkiGtCJoFA). If it is too hard, check out some resources [here](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
-5. Add yourself to the [lab website](https://solislemuslab.github.io//pages/people.html) via a pull request
+5. Add yourself to the [lab website](https://solislemuslab.github.io//pages/people.html) via a pull request. Please choose a photo that is not too high resolution so that the file is not too heavy for github.
 6. Read and sign the [authorship guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/authorship.md)
 7. If you are a grad student or postdoc, start thinking about your [project plan](https://github.com/solislemuslab/lab-dynamics/blob/master/project-plan.md)
 
