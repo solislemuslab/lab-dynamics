@@ -117,6 +117,7 @@ A few examples below.
 - [Statistical Rethinking in R](https://bookdown.org/content/4857/) by A Solomon Kurz
 - [Statistical Rethinking in Julia](https://shmuma.github.io/rethinking-2ed-julia/)
 - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2020) course materials by Richard McElreath
+    - [YouTube lectures](https://www.youtube.com/watch?v=cclUd_HoRlo)
 - [Modern Statistics for Biology](https://www.huber.embl.de/msmb/introduction.html) by Susan Holmes and Wolfgang Huber
 - [Calling Bullsh*t](https://callingbullshit.org/index.html): Data reasoning in a digital world by Carl Bergstrom and Jevin West
 - [The role of p-values](https://www.tandfonline.com/doi/full/10.1080/19466315.2020.1724560) by Eric Gibson
@@ -145,6 +146,7 @@ A few examples below.
 - [Bayesian Optimization book](https://bayesoptbook.com/) by Roman Garnett
 - [Machine learning for biologists](https://carpentries-incubator.github.io/ml4bio-workshop/) by the Gitter lab
 - [Matrix calculus](http://www.matrixcalculus.org/)
+- [Hack your data beautiful](https://psyteachr.github.io/hack-your-data/)
 
 # Diversity and inclusion in science
 
@@ -186,5 +188,9 @@ A few examples below.
 
 # Mastodon
 - What is Mastodon? https://tilvids.com/w/hRzMpJwSkqEK3ZTNPbSuqu
-- Guide to Mastodon: https://fedi.tips/
+- [Guide to Mastodon: fedi tipes](https://fedi.tips/)
 - Find Twitter people in Mastodon: https://fedifinder.glitch.me/
+- [Open Science community](https://germanrepro.github.io/Mastodon-OpenScience/)
+- [Guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon)
+- [The 5-minute guide to the fediverse and Mastodon](https://gist.github.com/joepie91/f924e846c24ec7ed82d6d554a7e7c9a8)
+- [Everything I know about Mastodon by Danielle Navarro](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/#what-is-mastodon-what-is-the-fediverse)
