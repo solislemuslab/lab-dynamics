@@ -116,7 +116,7 @@ A few examples below.
 - [Statistical Rethinking in Julia](https://github.com/StatisticalRethinkingJulia/StatisticalRethinking.jl) by Richard McElreath
 - [Statistical Rethinking in R](https://bookdown.org/content/4857/) by A Solomon Kurz
 - [Statistical Rethinking in Julia](https://shmuma.github.io/rethinking-2ed-julia/)
-- [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2020) course materials by Richard McElreath
+- [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2023) course materials by Richard McElreath
     - [YouTube lectures](https://www.youtube.com/watch?v=cclUd_HoRlo)
 - [Modern Statistics for Biology](https://www.huber.embl.de/msmb/introduction.html) by Susan Holmes and Wolfgang Huber
 - [Calling Bullsh*t](https://callingbullshit.org/index.html): Data reasoning in a digital world by Carl Bergstrom and Jevin West
