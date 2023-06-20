@@ -127,6 +127,7 @@ In recent years, it has becoming increasingly important to advertise broadly our
 - email the paper to collaborators
 - do presentations in conferences and symposia ([more info](#talks))
 - if the published paper is for a software tool, create a video tutorial and a wiki documentation
+- add a folder in `/mnt/dv/wid/projects4/SolisLemus-shared-data` in the lab server with the real data that you used (raw and clean) along with a readme file describing the steps from raw to clean
 
 ### Talks/posters in conferences and symposia <a name="talks"></a>
 
