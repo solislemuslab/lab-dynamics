@@ -34,7 +34,7 @@ Advantages of joining the lab:
 
 ### Am I a good fit for the lab?
 
-1. Take the [git quiz](https://learn.co/lessons/git-github-learn-quiz)
+1. Take the [git quiz](https://www.w3schools.com/git/git_quiz.asp)
     - If you scored 8 or higher, you are in great shape!
     - If you scored less than 8, you need to study git/github. Study [these notes](https://github.com/crsl4/mindful-programming/blob/master/lecture.md) carefully 
 
