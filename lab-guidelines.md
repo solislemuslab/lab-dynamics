@@ -43,6 +43,7 @@ _This is a dynamic document; feel free to suggest modifications to improve these
     - **Let me know the style of communication or schedule of meetings that you prefer.** If there is something about my mentoring style that is proving difficult for you, please tell me so that I can have an opportunity to find an approach that works for you.
     - **Be prompt.** Respond promptly (in most cases, within 48 hours) to emails/slack messages from anyone in the lab group and show up on time and prepared for meetings. If you need time to gather information in response to an email/slack message, please acknowledge receipt of the message and indicate when you will be able to provide the requested information.
     - **Discuss policies on work hours, sick leave and vacation with me directly.** Consult with me and notify fellow lab members in advance of any planned absences. Post-docs and staff are expected to work at least 40 hours per week. Most lab members will not exceed two weeks per year of fully personal travel. I believe that work-life balance and vacation time are essential for creative thinking and good health and encourage you to take regular vacations. Be aware, however, that there will necessarily be times when it may not be ideal to schedule time away (e.g. first week of the semester for mandatory lab meeting to go over lab guidelines)
+        - It is the lab member's responsibility to bring up any personal vacation or travel at least 2 weeks in advance and to reschedule any meetings
     - **Discuss policies on authorship and attendance at professional meetings with me** before beginning any projects to ensure that we are in agreement. I expect you to submit relevant research results in a timely manner. Barring unusual circumstances, it is my policy that researchers are first-author on all work for which they took the lead on the project and preparation of the initial version of the manuscript (but read the [authorship guidelines](https://github.com/solislemuslab/lab-dynamics/blob/master/authorship.md) for more information).
     - **Help other students with their projects and provide informal mentorship.** This is a valuable experience! If you want to add other individuals as authors to your papers, please discuss this with me early on and before discussing the situation with these potential co-authors.
 
@@ -122,10 +123,12 @@ It is not enough to do "good science", we need to be good communicators of our s
 
 #### My paper is published, now what?
 In recent years, it has becoming increasingly important to advertise broadly our work and invest heavily on good science communication strategies. We will
+- create a 3-min lighting talk to post on the [lab youtube channel](https://www.youtube.com/channel/UCcBcmxIYYGC6Z04p9SC7hwg/featured)
+    - this presentation should include: 1) motivation, 2) our solution to the problem, 3) some results, 4) advertisement of the paper and github, 5) acknowledgements. Check out [this previous talk](https://www.youtube.com/watch?v=IXLVDIKxPvk) as an example
 - tweet the paper alongside 
     - an image of the graphical abstract or an infographics (see [canva](https://www.canva.com/tools/infographic-maker-v1/)) or a [word cloud](https://www.wordclouds.com/)
-    - a 1-min lightning talk to advertise the paper
-- create a 5-min lighting talk to post on the [lab youtube channel](https://www.youtube.com/channel/UCcBcmxIYYGC6Z04p9SC7hwg/featured)
+    - a link to the youtube 3-min presentation
+- post in the [lab instagram](https://www.instagram.com/thestatistician/?hl=en) a wordcloud and a 1-min presentation of the paper
 - include the paper in the lab website (alongside links to the lightning talk and images of the graphical abstract/infographic/word cloud)
 - email the paper to collaborators
 - do presentations in conferences and symposia ([more info](#talks))
