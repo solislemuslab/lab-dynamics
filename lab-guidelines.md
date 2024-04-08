@@ -17,6 +17,7 @@ _This is a dynamic document; feel free to suggest modifications to improve these
     - **Acknowledge that you have the primary responsibility for the successful completion of your work.** You should maintain a high level of professionalism, self-motivation, engagement, scientific curiosity, and ethical standards.
     - **Ensure that you meet regularly with me** (once per week would be ideal) and provide me with updates on the progress and results of your activities and experiments. At the same time, be aware of my time constraints. I will strive to keep an open door policy, but there will be times when I won't be able to meet, and you will need to figure things out on your own. Acquiring problem-solving skills is part of a good research program.
     - **Be knowledgeable of the policies of the institute and university.** Comply with all institutional policies, including intellectual property rules, and codes of conduct.
+        - For grad students with 33-50% RAships, this means enrolling in full time credits (at least 8 credits for non-disserators and 3 credits for dissertators) every semester.
 
 - You will be a team player
     - **Attend and actively participate in all laboratory meetings**, as well as relevant seminars. Participation in lab meetings does not mean only presenting your own work, but also providing support to others in the lab through constructive questions and shared insights. 
