@@ -31,8 +31,8 @@ output:
 - All abstracts, posters, talks, preprints and papers are representations of the lab and must be approved by Claudia before submission
 
 
-Name of trainee:
+Name of trainee: Jiayi (Joyce) Gao
 
-Signature of trainee:
+Signature of trainee: Jiayi (Joyce) Gao
 
-Date:
+Date: Dec 5
