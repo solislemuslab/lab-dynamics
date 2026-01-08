@@ -148,6 +148,7 @@ A few examples below.
 - [Machine learning for biologists](https://carpentries-incubator.github.io/ml4bio-workshop/) by the Gitter lab
 - [Matrix calculus](http://www.matrixcalculus.org/)
 - [Hack your data beautiful](https://psyteachr.github.io/hack-your-data/)
+- [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 # Diversity and inclusion in science
 
