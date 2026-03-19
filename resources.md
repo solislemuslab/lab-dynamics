@@ -149,6 +149,7 @@ A few examples below.
 - [Matrix calculus](http://www.matrixcalculus.org/)
 - [Hack your data beautiful](https://psyteachr.github.io/hack-your-data/)
 - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Mathematics of Machine Learning](https://mml-book.github.io/)
 
 # Diversity and inclusion in science
 
