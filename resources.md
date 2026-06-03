@@ -41,9 +41,6 @@ There are many free resources online to learn how to code for people of all ages
 - Improve scientific writing: [10 simple rules](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165) by Scott Hotaling
 - Improve tables with R: [Guidelines for better tables](https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/#rule-1-offset-the-heads-from-the-body) by Thomas Mock
 - [Elevator pitch](https://graduateschool.nd.edu/assets/76988/elevator_pitch_8_28_2012.pdf): how to present your research by Gretchen Busl
-- [Good figures](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2014.pdf) by Karl Broman
-- [Ten rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) by Rougier et al
-- [Ten rules to colorize](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259) by Hattab et al
 - [Publishing papers while keeping everything in balance](https://ojs.library.queensu.ca/index.php/IEE/article/view/9045) by Scott Hotaling
 - [BioRender](https://biorender.com/) for professional figures
 - [Unsplash](https://unsplash.com/) for high resolution photos
@@ -52,6 +49,13 @@ There are many free resources online to learn how to code for people of all ages
 - [ggplot2 guide](https://evamaerey.github.io/ggplot2_grammar_guide/about) by Gina Reynolds and [the evolution of ggplot2](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) by Cedric Scherer
 - [Seeds of Science](https://www.theseedsofscience.org/) journal.
 - [Bioinformatics and publication figures](https://jlsteenwyk.com/resources.html) by Jacob Steenwyk.
+
+## Good figures
+- [Good figures](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2014.pdf) by Karl Broman
+- [Ten rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) by Rougier et al
+- [Ten rules to colorize](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259) by Hattab et al
+- [Data Visualization notes](https://vancleve.theoretical.bio/BIO540-DWV/) by Jereme Van Cleve
+- [Data looks better naked](https://darkhorsevisualization.com/blog/data-looks-better-naked) by Joey Cherdarchuk
 
 # Getting funding
 
