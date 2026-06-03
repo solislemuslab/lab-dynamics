@@ -56,6 +56,7 @@ There are many free resources online to learn how to code for people of all ages
 - [Ten rules to colorize](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259) by Hattab et al
 - [Data Visualization notes](https://vancleve.theoretical.bio/BIO540-DWV/) by Jereme Van Cleve
 - [Data looks better naked](https://darkhorsevisualization.com/blog/data-looks-better-naked) by Joey Cherdarchuk
+- [Colorgorical](http://vrl.cs.brown.edu/color) by Gramazio et al
 
 # Getting funding
 
