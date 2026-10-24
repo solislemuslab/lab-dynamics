@@ -23,6 +23,7 @@ _This is a dynamic document; feel free to suggest modifications to improve these
     - **Attend and actively participate in all laboratory meetings**, as well as relevant seminars. Participation in lab meetings does not mean only presenting your own work, but also providing support to others in the lab through constructive questions and shared insights. 
         - Please provide _one-week_ notice if you will miss meetings due to classes or exams
         - Please report any travel _one month_ in advance. Use the google spreadsheet in slack.
+        - If you have to miss the lab meeting when you are presenting, you need to make arrangements to swap the date with someone else
     - **Strive to be the very best lab citizen.** Be respectful, tolerant of, and work collegially with all lab colleagues: respect individual differences in values, personalities, work styles, and theoretical perspectives. 
     - **Acknowledge the efforts of everyone in the lab.**
     
