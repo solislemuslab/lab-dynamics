@@ -14,5 +14,5 @@
 
 # Things I wished I knew as a postdoc
 - It is crucial to have in your CV that you are able to get funding, some resources [here](https://github.com/solislemuslab/lab-dynamics/blob/master/resources.md#getting-funding).
-- It is not enough to give talks, you need to give talks that are easy to understand by the audience. Always think about your audience! Some resources on science communication [here](https://github.com/solislemuslab/lab-dynamics/blob/master/resources.md#peer-reviews-and-publishing-sci-comm).
+- It is not enough to give talks, you need to give memorable talks! And memorable talks are the ones that are easy to understand by the audience. Always think about your audience! Some resources on science communication [here](https://github.com/solislemuslab/lab-dynamics/blob/master/resources.md#peer-reviews-and-publishing-sci-comm).
 - You need your research products to follow some story. You do not want your work to be "de chile, manteca y dulce" as we say in Mexico (all over the place). There has to be some central theme and it should be clear that you are working to become an expert in a niche. It is easier to convince recruiters that you are becoming an expert in a given area when all your work is backing up that narrative.
